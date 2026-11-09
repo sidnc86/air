@@ -4,17 +4,102 @@ All notable changes to this project are documented here. This changelog is desig
 
 ---
 
-## [v1.0.0-alpha] — 2026-11-09
+## [v1.0.1-alpha] — 2026-11-10
 
 ### Overview
 
-Initial public release of **AIR: Accessibility in India Repo**—a collaborative platform collecting RERA complaints, building accessibility evidence, and government mandates to benchmark and improve accessibility in Indian buildings.
-
-Phase 1 establishes foundational governance, publishes the Marbella case as evidence, and optimizes the repository for LLM integration and community maintenance.
+**Phase 2 Critical Legal Work**: Converted two national statutes to markdown for verifiable accessibility legal framework. Verified NBC 2016 lift requirements. Enhanced case-summary and complaint documents with direct cross-links to statutory text. Repository now provides full legal traceability for accessibility claims.
 
 ---
 
-## Phase 1A: Audit & Preparation
+## Phase 2 Critical Legal Items: Statute Conversions & Verification
+
+**Objective:** Establish legal precision by converting key statutes to markdown and verifying technical claims before Phase 2 expansion.
+
+### Changes
+
+#### 1. Rights of Persons with Disabilities Act, 2016: Sections 40, 44-47
+- **Created:** `mandates/national/03-RPWD-Act-2016-Sections-40-44-47.md` (5.75 KB)
+  - Full statutory text extracted from India Code official source
+  - Sections 40 (accessibility standards), 44 (mandatory compliance), 45 (5-year timeline), 46 (2-year service provider timeline), 47 (capacity building)
+  - Establishes national statutory duty for building accessibility
+  - Directly cited in Marbella complaint Section 11 relief
+  - Includes verification instructions and community amendment-tracking process
+
+#### 2. Real Estate Act, 2016: Sections 11-15
+- **Created:** `mandates/mh/02-Real-Estate-Act-2016-Sections-11-15.md` (16.08 KB)
+  - Full statutory text extracted from India Code for national statute
+  - Sections 11 (Promoter duties), 12 (Allottee rights), 13 (RERA establishment), 14 (RERA powers), 15 (Regulations)
+  - **Accessibility-specific analysis section** explaining relief pathways for accessibility non-compliance
+  - **Section-to-claim matrix** mapping Marbella complaint sections to statutory relief framework
+  - Section 11(4)(a), (b), (d) directly used in complaint relief
+  - Includes verification procedures and community tracking
+
+#### 3. NBC 2016 Section 13 Verification
+- **Status:** ✅ **VERIFIED** via cross-check against MOHUA Guidelines 2021
+  - Lift Braille button requirement confirmed in both NBC 2016 and MOHUA implementation document
+  - Complaint's technical claim (lift panels must have Braille) is legally sound
+  - Source quality note: Current NBC 2016 markdown from non-BIS source; content verified against government-published MOHUA Guidelines 2021
+  - Recommendation: Use in Marbella case; BIS official text verification deferred to Phase 2+
+
+#### 4. Cross-Linking & Case Integration
+- **Updated:** `mandates/legal-mandates-sources.md`
+  - Added entries for 3 new/updated mandates
+  - RPwD Act: Now shows conversion complete + verification status
+  - Real Estate Act: Now shows conversion complete + accessibility annotations
+  - NBC 2016: Updated with verification status (verified via MOHUA cross-check)
+  
+- **Updated:** `cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md`
+  - Added inline cross-references to all 4 mandate markdown files
+  - Each claim now links to supporting statutory text
+  - Makes complaint fully verifiable without PDF access
+  - Enables readers to cross-check legal arguments directly
+
+### Commits
+
+**Commit Hash:** `703f902`  
+**Message:** "Phase 2 Critical Legal Work: Convert RPwD Act & Real Estate Act to markdown, verify NBC 2016, update mandate index and complaint cross-links"
+
+### Files Affected
+
+**Created:**
+- `mandates/national/03-RPWD-Act-2016-Sections-40-44-47.md` — National statutory duty for accessibility
+- `mandates/mh/02-Real-Estate-Act-2016-Sections-11-15.md` — RERA relief framework with accessibility analysis
+
+**Modified:**
+- `mandates/legal-mandates-sources.md` — Updated 3 mandate entries with conversion/verification status
+- `cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md` — Added cross-links to mandate markdown files
+
+### Rationale
+
+**Legal Precision:**
+- All major statutes cited in Marbella complaint now available as verifiable markdown
+- Readers can cross-check claims without PDF access
+- NBC lift requirement verified against government implementation document
+- Relief framework (Real Estate Act) now transparent and accessible
+
+**Accessibility & Sustainability:**
+- Markdown format enables LLM analysis and future AI case-guidance tools
+- Structured sections (especially Real Estate Act annotations) enable automated legal argument building
+- Verification status transparent; amendments tracked via GitHub issues
+
+**Community Readiness:**
+- Case is now legally traceable and community-reviewable
+- Stronger foundation for Phase 2 expansion (other states can reuse same statute conversions)
+- Clear pattern established for future mandate sourcing and verification
+
+**AI Tool Context:**
+For Copilot/Claude/GPT analyzing this repo: The Phase 2 conversion pattern shows how to:
+1. Source statutes from official India Code
+2. Extract relevant sections to markdown
+3. Add accessibility-specific annotations (see Real Estate Act example)
+4. Cross-link from case materials
+5. Document verification status in legal-mandates-sources.md
+This pattern scales to other states' mandates in Phase 2 expansion.
+
+---
+
+## [v1.0.0-alpha] — 2026-11-09
 
 **Objective:** Verify Phase 1 content integrity and prepare governance framework for publication.
 
