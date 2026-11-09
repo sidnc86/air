@@ -1,0 +1,332 @@
+# CHANGELOG — AIR (Accessibility in India Repo)
+
+All notable changes to this project are documented here. This changelog is designed for both human collaborators and AI tools (Copilot, Claude, GPT) to understand the project evolution and decision context.
+
+---
+
+## [v1.0.0-alpha] — 2026-11-09
+
+### Overview
+
+Initial public release of **AIR: Accessibility in India Repo**—a collaborative platform collecting RERA complaints, building accessibility evidence, and government mandates to benchmark and improve accessibility in Indian buildings.
+
+Phase 1 establishes foundational governance, publishes the Marbella case as evidence, and optimizes the repository for LLM integration and community maintenance.
+
+---
+
+## Phase 1A: Audit & Preparation
+
+**Objective:** Verify Phase 1 content integrity and prepare governance framework for publication.
+
+### Changes
+
+#### Case Materials Documentation
+- **Created:** `cases/mh/pune-marbella-vs-siddhant/proof/proof-index.md`
+  - Documents all 13 images/PDFs with purpose, relevance, and context
+  - Explains how each piece of evidence supports accessibility arguments
+  - Enables future contributors to understand proof documentation structure
+  - No modifications to original case content (immutable integrity)
+
+#### Legal Mandates Strategy
+- **Enhanced:** `mandates/legal-mandates-sources.md`
+  - Documented URL-to-markdown conversion strategy for government PDFs
+  - Created source attribution framework (URL, download date, extraction method, verification status)
+  - Established verification-status tracking table
+  - Added process for community to flag outdated material via GitHub issues
+  - Links each mandate to official government sources for live verification
+
+#### Community Contribution Framework
+- **Enhanced:** `CONTRIBUTING.md`
+  - Added "Case Materials: Sharing Your Advocacy" section
+  - Documented case-material contribution guidelines (what to share, what not to, how, attribution, anonymity options)
+  - Explained immutability of `cases/` folder (archive model)
+  - Added privacy/consent requirements for contributors
+  - Clarified licensing options for case contributors
+
+#### Mission & Transparency
+- **Enhanced:** `README.md`
+  - Added "Under Review" disclaimer banner
+  - Created "Our Mission: Knowledge Through Cases" section
+  - Updated Folder Guide with case-sharing emphasis and mandate-sources link
+  - Expanded "Sources and Limits" with explicit verification-status reference
+  - Updated "Contributing" section to invite case-material sharing
+
+### Commits
+
+**Commit Hash:** `27b3c07`  
+**Message:** "Phase 1: Initial publication - AIR (Accessibility in India Repo)"
+
+### Files Affected
+
+**Created:**
+- `cases/mh/pune-marbella-vs-siddhant/proof/proof-index.md`
+
+**Modified:**
+- `mandates/legal-mandates-sources.md`
+- `CONTRIBUTING.md`
+- `README.md`
+
+### Rationale
+
+**Governance & Clarity:**
+- Clear CC BY 4.0 licensing limits scope to original educational Markdown only
+- Case materials remain user-authored and immutable (archive model)
+- Verification status documented for all legal citations
+
+**Accessibility & Community:**
+- Proof documentation enables future advocates to understand evidence structure
+- Case-material guidelines lower barriers to community contributions
+- Privacy/consent framework protects contributors while encouraging sharing
+- Mission statement emphasizes lived experience as foundation
+
+**AI Tool Context:**
+For Copilot/Claude/GPT analyzing this repo: These changes establish the foundational governance that enables future contributions. The proof-index pattern shows how to document evidence. The mandate-sources strategy (URL→markdown) will be extended in Phase 1C.
+
+---
+
+## Phase 1B: GitHub Setup & Initial Commit
+
+**Objective:** Publish Phase 1 to public GitHub repository with full governance framework.
+
+### Changes
+
+#### Repository Creation & Publication
+- **Initialized:** Local git repository (`.git/`)
+- **Created:** Public GitHub repository at https://github.com/sidnc86/air
+  - Visibility: Public
+  - Description: "AIR (Accessibility in India Repo): A collaborative platform collecting research, field reports, and lived experiences from persons with disabilities to benchmark and improve building accessibility in India."
+  - Topics: accessibility, india, rera, inclusion, disability-rights, building-codes, braille, advocacy
+
+#### Initial Content Commit
+- **All Phase 1 deliverables published:**
+  - Governance: LICENSE, LICENSE.md, PRIVACY.md, CONTRIBUTING.md, SOURCES.md, ROADMAP.md
+  - Case Materials: Complete Marbella case folder (communication, complaints, proof with index, material, case-summary)
+  - Legal Mandates: 6 government sources with verification status
+  - Guides: Maharashtra RERA filing guide (preliminary, marked "Under Review")
+  - Solutions: Touch-panel Braille overlay design (user-created, CC BY 4.0)
+  - Templates: case-summary.md for contribution structure
+  - Configuration: .gitignore for OS/editor/session files
+
+### Commits
+
+**Commit Hash:** `27b3c07`  
+**Message:** "Phase 1: Initial publication - AIR (Accessibility in India Repo)"
+
+### Files Affected
+
+**Created:** 92 files, 17,521 insertions (all Phase 1 content)
+
+### Rationale
+
+**Accessibility Advocacy:**
+- Makes real RERA evidence publicly available for community reference
+- Demonstrates concrete barriers and filing process
+- Establishes repository as knowledge base for accessibility advocacy
+
+**Community Ready:**
+- Clear governance and licensing upfront
+- Case materials show how to document accessibility barriers
+- Contribution guidelines invite similar cases
+- Update-tracking framework established for sustainability
+
+**AI Tool Context:**
+For future AI agents building case-guidance tools: The complete Marbella case shows the full RERA workflow (complaint → relief-sought → evidence). The governance layer (CONTRIBUTING.md, SOURCES.md, PRIVACY.md) establishes how to handle new contributions responsibly.
+
+---
+
+## Phase 1C: PDF-to-Markdown Conversion & Repository Optimization
+
+**Objective:** Fix GitHub file-size warnings by converting large PDFs to LLM-friendly markdown while retaining live government source URLs for verification and update tracking.
+
+### Problem
+
+**GitHub File-Size Warning:** MOHUA-building-guidelines.pdf (63.13 MB) exceeded GitHub's 50MB warning threshold, limiting repository scaling and creating maintenance friction.
+
+### Changes
+
+#### Large Mandate PDFs Converted to Markdown
+
+Three large government documents converted to searchable, text-extracted markdown:
+
+1. **MOHUA Guidelines 2021** → `mandates/national/01-MOHUA-building-guidelines-2021.md`
+   - Original: 63.13 MB PDF (474+ pages)
+   - Converted: Full-text markdown with section structure
+   - Size: 0.56 MB
+   - **Reduction: 99.1%** ✅
+   - Extraction: pypdf full-text extraction
+   - Content: Universal accessibility principles, building design standards, lift specifications
+
+2. **NBC 2016 Section 13** → `mandates/national/02-NBC-2016-Section-13-ANNEX-B.md`
+   - Original: 3.95 MB PDF
+   - Converted: Markdown with structured sections
+   - Size: 1.03 MB
+   - **Reduction: 73.9%** ✅
+   - Content: National Building Code lift and accessibility specifications
+
+3. **UDCPR Maharashtra 2016** → `mandates/mh/01-UDCPR-2016-Maharashtra.md`
+   - Original: 5.05 MB PDF
+   - Converted: Markdown with regulation structure
+   - Size: 1.06 MB
+   - **Reduction: 78.9%** ✅
+   - Content: Maharashtra Urban Development Regulations accessibility requirements
+
+**Total Size Reduction:**
+- Before: 72.13 MB (three large PDFs)
+- After: 2.65 MB (three markdown files)
+- **Overall: 96.3% reduction** ✅
+
+#### Markdown File Structure (All Converted Files Include)
+Each converted mandate markdown file includes:
+- Original PDF attribution and official source URL
+- Government authority and jurisdiction
+- Edition/amendment date
+- Extraction date and method
+- Full-text content organized by section/chapter
+- Verification instructions with link to official source
+- Instructions for reporting extraction errors or updates
+- License/attribution notes
+- Anchor links to related materials
+
+#### Update-Tracking Framework
+- **Enhanced:** `mandates/legal-mandates-sources.md`
+  - Added table linking to markdown files
+  - Created "Last Verified" and "Updates Checked" columns
+  - Documented size reduction statistics
+  - Added "Community Update-Tracking" section with reporting process
+  - Provided process for flagging outdated government material
+
+#### Community Contribution Template
+- **Created:** `.github/ISSUE_TEMPLATE/mandate-update.md`
+  - Template for community to report outdated material
+  - Verification checklist
+  - Links to related cases/guides
+  - Clear submission process
+
+#### Documentation Enhancements
+- **Enhanced:** `CONTRIBUTING.md`
+  - Added section explaining mandate storage strategy (PDF→markdown)
+  - Documented benefits for LLM integration
+  - Explained file naming conventions for consistency
+  - Added instructions for community update reporting
+
+- **Enhanced:** `README.md`
+  - Added note on markdown-based mandate storage
+  - Explained LLM accessibility for AI models (Copilot, Claude, GPT)
+  - Linked to update-tracking framework
+  - Highlighted searchability and full-text availability
+
+### Commits
+
+**Commit Hash:** `088a209`  
+**Message:** "Phase 1 Addendum: PDF-to-Markdown Conversion & Repository Optimization"
+
+### Files Affected
+
+**Created:**
+- `mandates/national/01-MOHUA-building-guidelines-2021.md`
+- `mandates/national/02-NBC-2016-Section-13-ANNEX-B.md`
+- `mandates/mh/01-UDCPR-2016-Maharashtra.md`
+- `.github/ISSUE_TEMPLATE/mandate-update.md`
+
+**Modified:**
+- `mandates/legal-mandates-sources.md`
+- `CONTRIBUTING.md`
+- `README.md`
+
+### Rationale
+
+**Repository Health & Scalability:**
+- Eliminates 50MB+ warning that limits repository growth
+- Reduces total repository size by 96.3%
+- Enables sustainable scaling for future phases (new jurisdictions, translated guides)
+
+**LLM Integration & Future AI Tools:**
+- Converts PDFs to text format that AI models can directly process
+- Enables Copilot/Claude/GPT to cite government provisions directly
+- Foundation for AI-guided case-filing tools (future Phase 4+)
+- Full-text accessible for screen-reader users
+
+**Community Maintenance & Accuracy:**
+- Live government source URLs retained in each markdown file
+- Update-tracking table shows when material was last verified
+- GitHub issue template enables community to flag changes easily
+- Clear process for keeping mandates current as government updates them
+
+**Accessibility & Searchability:**
+- Full-text markdown enables keyword searches across all mandates
+- Screen-reader accessible (no embedded PDFs)
+- Markdown is human-readable and AI-parseable
+- Content can be quoted, linked, and cited directly
+
+### Benefits for Future Development
+
+**For Phase 2 (Verified Pilot & Jurisdiction Expansion):**
+- Markdown mandates can be quickly compared across jurisdictions
+- Community can identify inconsistencies or gaps
+- Foundation for AI agents to suggest relevant provisions for cases
+
+**For Phase 4 (AI-Guided Case Filing):**
+- Mandates are directly processable by LLM-based case-guidance agents
+- Full-text search enables context-aware provision matching
+- Verified accuracy ensures agent recommendations are trustworthy
+
+**For Phase 5 (Multilingual Stewardship):**
+- Markdown is easier to translate than PDFs
+- Update-tracking framework scales across languages
+- Community can maintain translations alongside originals
+
+### AI Tool Context
+
+For Copilot/Claude/GPT analyzing this repository:
+
+1. **Architecture Decision:** PDF→Markdown conversion establishes pattern for handling government documents
+2. **Maintenance Model:** Update-tracking framework shows how community sustains accuracy over time
+3. **Scalability:** 96.3% reduction demonstrates commitment to sustainable growth
+4. **Future Integration:** LLM-ready format directly enables AI case-guidance tools
+5. **Transparency:** Retained URLs show how to verify claims against authoritative sources
+
+This phase demonstrates how to balance "moving fast" (publish Phase 1B) with "sustainability" (optimize in Phase 1C) before major expansion phases.
+
+---
+
+## Future Roadmap
+
+### Phase 2: Verified Pilot & Jurisdiction Expansion
+**Planned:** Verify legal provisions, expand to Karnataka/Rajasthan/Uttar Pradesh, collect community feedback
+
+### Phase 3: Public Repository & Accessible Website
+**Planned:** Static website, accessibility testing, public-only repo version
+
+### Phase 4: Assisted Contributions & Private Intake
+**Planned:** Human-reviewed workflow, private storage, consent/retention/moderation processes
+
+### Phase 5: Multilingual National Stewardship
+**Planned:** Additional jurisdictions, reviewed translations, versioning, maintenance
+
+---
+
+## How This Changelog Helps AI Tools
+
+When Copilot, Claude, GPT, or future agents analyze this repository:
+
+1. **Understand Evolution:** Each phase shows architectural decisions and their rationale
+2. **Learn Patterns:** Proof-index → update-tracking → LLM optimization shows consistent approach
+3. **Make Informed Changes:** Rationale explains "why" so new work builds on solid foundation
+4. **Maintain Quality:** Verification status and update-tracking provide maintenance models
+5. **Enable Collaboration:** Community contribution framework shows how to welcome contributors safely
+
+---
+
+## Contributing & Community
+
+For all contributors (human and AI):
+- Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines
+- Review [`SOURCES.md`](SOURCES.md) for citation conventions
+- Check [`PRIVACY.md`](PRIVACY.md) for privacy boundaries
+- Reference this CHANGELOG for project evolution and decision context
+
+---
+
+**Repository:** https://github.com/sidnc86/air  
+**License:** CC BY 4.0 (original educational content only; see LICENSE.md for scope)  
+**Last Updated:** 2026-11-09
