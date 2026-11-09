@@ -14,12 +14,21 @@ Add sourcing, attribution, privacy, contribution, and scoped licensing guidance;
 
 **Status: In progress.** 
 
-**Checkpoint Completed (2026-11-10):** Marbella case verification and statutory cross-linking complete. Three key statutes converted to markdown and verified:
-- ✅ RPWD Act 2016 (Sections 40, 44-47) — National accessibility duty verified for complaint claims
-- ✅ Real Estate Act 2016 (Sections 11-15) — Relief framework with accessibility annotations verified for complaint relief section
-- ✅ NBC 2016 Section 13 — Lift Braille requirement verified via MOHUA 2021 cross-check
+**Checkpoint Completed (2026-11-10):** 
 
-RERA-COMPLAINT.md now has full statutory traceability. See [CHANGELOG.md](CHANGELOG.md) v1.0.1-alpha for verification details and [legal-mandates-sources.md](mandates/legal-mandates-sources.md) for source status.
+1. **Marbella case verification and statutory cross-linking complete.** Three key statutes converted to markdown and verified:
+   - ✅ RPWD Act 2016 (Sections 40, 44-47) — National accessibility duty verified for complaint claims
+   - ✅ Real Estate Act 2016 (Sections 11-15) — Relief framework with accessibility annotations verified for complaint relief section
+   - ✅ NBC 2016 Section 13 — Lift Braille requirement verified via MOHUA 2021 cross-check
+
+   RERA-COMPLAINT.md now has full statutory traceability. See [CHANGELOG.md](CHANGELOG.md) v1.0.1-alpha for verification details and [legal-mandates-sources.md](mandates/legal-mandates-sources.md) for source status.
+
+2. **Governance utilities and case management tools created.** Production-ready utilities for easing contributions:
+   - ✅ **PDF to Markdown Converter** (`scripts/pdf-to-markdown.py`) — Digitize government mandates with OCR support for scanned documents
+   - ✅ **Legal Claims Verification Prompt** (`prompts/verify-legal-claims.md`) — Validate case claims against Indian legal standards (RPWD Act, RERA, NBC, MOHUA)
+   - ✅ **Case Formulation Prompt** (`prompts/formulate-case.md`) — Structure accessibility case narratives for RERA filing or KB contribution
+   
+   These utilities are token-efficient (reusable system prompts), future-proof (agent-agnostic, ready for GitHub Copilot integration), and tested against real Marbella case material. See [GOVERNANCE-UTILITIES-SUMMARY.md](GOVERNANCE-UTILITIES-SUMMARY.md) and [QUICK-START-GOVERNANCE-UTILITIES.md](QUICK-START-GOVERNANCE-UTILITIES.md) for complete documentation.
 
 **Remaining Phase 2 Work:** Before expanding state-specific material or moving to Phase 3, reconcile conflicting source, text, applicability, provenance, and rights statuses. Review reuse terms for retained source files, extracts, archived pages, and project assets; record findings in the relevant source records. A public URL, attribution, or local Markdown conversion does not establish reuse permission. Verify current Maharashtra procedure and outstanding primary sources (UDCPR regulations, MahaRERA procedures), expanding only where the evidence and review capacity support it. Any case-derived public material requires separate explicit approval and must be created outside `cases/`.
 

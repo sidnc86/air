@@ -14,6 +14,22 @@ This project collects source-attributed information about making physical enviro
 - **Offline Availability:** Full text remains accessible even if government PDFs are moved or removed
 - **Verification Links:** Each markdown file includes live government source URLs for current compliance verification and amendment tracking
 
+### How to Convert PDFs to Markdown
+
+**New:** Use the automated PDF to Markdown converter to digitize mandates efficiently:
+```bash
+cd scripts
+pip install -r requirements.txt
+
+# Single PDF
+python pdf-to-markdown.py input.pdf output.md --url "https://source.gov/doc.pdf" --date "2016-01-01"
+
+# Batch conversion
+python pdf-to-markdown.py --batch config.json
+```
+
+See [`scripts/README.md`](scripts/README.md) for complete usage guide, OCR support for scanned documents, batch processing examples, and troubleshooting.
+
 ### Mandate Markdown Locations
 - **National Mandates:** `mandates/national/0X-[Name].md`
 - **State Mandates:** `mandates/state/0X-[Name].md` or `mandates/[STATE]/0X-[Name].md`
@@ -42,6 +58,26 @@ Each markdown file includes:
 - By sharing your case, you help others understand the actual RERA and building-code complaint process, common barriers, and documented evidence of accessibility violations.
 - Case contributions must be **your own authored material** and should follow the sharing guidelines below.
 - See [Case Material Guidelines](#case-material-guidelines-for-contributors) for details.
+
+### New: Governance Utilities for Case Preparation
+
+**Utilities to help you prepare and validate your case:**
+
+1. **Case Formulation Prompt** (`prompts/formulate-case.md`)
+   - Structure your case narrative into organized legal format
+   - Identify accessibility barriers and link to applicable mandates (RPWD Act, RERA, NBC)
+   - Organize evidence and identify gaps before filing
+   - Prepare publication checklist (privacy, rights, de-identification)
+   - Use with any LLM (ChatGPT, Claude, Gemini) or GitHub Copilot
+
+2. **Legal Claims Verification Prompt** (`prompts/verify-legal-claims.md`)
+   - Validate your claims against Indian law (RPWD Act, Real Estate Act, NBC, MOHUA)
+   - Assess evidence adequacy (supported / partially supported / insufficient)
+   - Identify evidence gaps and prioritize what to gather
+   - Get recommendations for applicable RERA relief sections
+   - Use before filing to strengthen your complaint
+
+**Quick Start:** See [`QUICK-START-GOVERNANCE-UTILITIES.md`](QUICK-START-GOVERNANCE-UTILITIES.md) for usage examples with any LLM.
 
 ---
 

@@ -1,9 +1,20 @@
 # Accessibility Sources and Ideas
 
-**Current Version:** [**v1.0.1-alpha**](VERSIONING.md) (Phase 2: Verified pilot — in progress)  
+**Current Version:** [**v1.0.2-alpha**](VERSIONING.md) (Phase 2: Verified pilot — in progress)  
 ⚠️ **Under Review** — This repository is in active review. Legal citations, compliance claims, and procedure guidance are being verified. Users should independently verify all information with current official sources before relying on it for decisions. Contributions and feedback welcome—see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-**Verification Status Update (2026-11-10):** The Marbella case and its statutory citations have been verified and cross-linked to official sources (see [`CHANGELOG.md`](CHANGELOG.md) v1.0.1-alpha). National statutes (RPWD Act 2016, Real Estate Act 2016) and NBC 2016 lift requirements have been extracted to markdown and verified. Case-specific legal claims in [`cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md`](cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md) are now traceable to statutory text. **Broader state-level expansion and procedure guidance remain under review** per Phase 2 roadmap.
+**Status Update (2026-11-10):** 
+
+1. **Legal Framework Verified:** The Marbella case and its statutory citations have been verified and cross-linked to official sources (see [`CHANGELOG.md`](CHANGELOG.md) v1.0.1-alpha). National statutes (RPWD Act 2016, Real Estate Act 2016) and NBC 2016 lift requirements have been extracted to markdown and verified. Case-specific legal claims in [`cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md`](cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md) are now traceable to statutory text.
+
+2. **Governance Utilities Ready:** New reusable tools to ease contributions and support case preparation:
+   - ✅ **PDF to Markdown Converter** (`scripts/pdf-to-markdown.py`) — Digitize government mandates with OCR support
+   - ✅ **Legal Claims Verification Prompt** (`prompts/verify-legal-claims.md`) — Validate cases against Indian law
+   - ✅ **Case Formulation Prompt** (`prompts/formulate-case.md`) — Structure case narratives for filing
+   
+   **Quick Start:** See [`QUICK-START-GOVERNANCE-UTILITIES.md`](QUICK-START-GOVERNANCE-UTILITIES.md) for usage examples.
+
+**Broader state-level expansion and procedure guidance remain under review** per Phase 2 roadmap.
 
 ---
 
@@ -27,8 +38,16 @@ Real RERA complaints, appeals, and advocacy work are the foundation of this know
   - 🔔 Community update-tracking framework (flag outdated material via GitHub issues)
   - 📊 Verification status of each mandate
 - [`cases/`](cases/) contains real RERA complaints, appeals, relief-sought sections, and supporting evidence shared by community members. These materials are preserved as authored and are not modified. **[Help us build this knowledge base](#our-mission-knowledge-through-cases)—share your case to help others.**
-- [guides/](guides/README.md) contains independently written procedural orientation, beginning with a preliminary Maharashtra RERA guide.
-- [solutions/](solutions/touch-panel/README.md) contains practical ideas and references. A proposal is not evidence that a design meets a standard or works for every user.
+- [`guides/`](guides/README.md) contains independently written procedural orientation, beginning with a preliminary Maharashtra RERA guide.
+- [`solutions/`](solutions/touch-panel/README.md) contains practical ideas and references. A proposal is not evidence that a design meets a standard or works for every user.
+- [`scripts/`](scripts/README.md) contains governance utilities for easing contributions:
+  - PDF to Markdown Converter — Digitize government mandates with OCR support
+  - See [`scripts/README.md`](scripts/README.md) for usage and batch processing guides
+- [`prompts/`](prompts/README.md) contains reusable LLM system prompts for case management:
+  - Legal Claims Verification Prompt — Validate cases against Indian law
+  - Case Formulation Prompt — Structure accessibility narratives for filing or KB contribution
+  - See [`prompts/README.md`](prompts/README.md) for usage with any LLM or GitHub Copilot
+  - See [`QUICK-START-GOVERNANCE-UTILITIES.md`](QUICK-START-GOVERNANCE-UTILITIES.md) for code examples
 - `templates/` contains blank contribution aids; templates do not authorize copying case material.
 
 ## Sources and Limits

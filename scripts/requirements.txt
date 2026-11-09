@@ -1,0 +1,14 @@
+# PDF to Markdown Converter Dependencies
+
+# Core PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# OCR for scanned documents
+easyocr>=1.7.0
+
+# Image processing (required by easyocr)
+Pillow>=10.0.0
+
+# For OCR-based extraction from scanned PDFs
+pdf2image>=1.16.0
