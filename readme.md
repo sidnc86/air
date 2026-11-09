@@ -1,6 +1,9 @@
 # Accessibility Sources and Ideas
 
+**Current Version:** [**v1.0.1-alpha**](VERSIONING.md) (Phase 2: Verified pilot — in progress)  
 ⚠️ **Under Review** — This repository is in active review. Legal citations, compliance claims, and procedure guidance are being verified. Users should independently verify all information with current official sources before relying on it for decisions. Contributions and feedback welcome—see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+**Verification Status Update (2026-11-10):** The Marbella case and its statutory citations have been verified and cross-linked to official sources (see [`CHANGELOG.md`](CHANGELOG.md) v1.0.1-alpha). National statutes (RPWD Act 2016, Real Estate Act 2016) and NBC 2016 lift requirements have been extracted to markdown and verified. Case-specific legal claims in [`cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md`](cases/mh/pune-marbella-vs-siddhant/complaints/rera/RERA-COMPLAINT.md) are now traceable to statutory text. **Broader state-level expansion and procedure guidance remain under review** per Phase 2 roadmap.
 
 ---
 

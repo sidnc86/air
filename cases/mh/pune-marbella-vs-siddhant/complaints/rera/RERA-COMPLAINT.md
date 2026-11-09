@@ -1,4 +1,7 @@
 Respected Authority,
+
+**🔗 [Verification Status](../../../../../../CHANGELOG.md#phase-2-critical-legal-items-statute-conversions--verification):** This complaint includes cross-links to verified statutory sources. All national statutes and NBC 2016 requirements cited below have been converted to markdown and verified as of 2026-11-10. See [legal-mandates-sources.md](../../../../../../mandates/legal-mandates-sources.md) for verification details.
+
 I am filing this formal complaint as a citizen of India, a resident of Pune, and a person with permanent visual impairment. My wife and I are both blind. We recently occupied our flat at Majestique Marbella, Wing D, and face systematic, structural segregation daily due to the developer's complete failure to adhere to mandatory barrier-free architectural bylaws.
 The project is currently active and processing phases towards final clearances. We bring to your immediate notice that the basic structural provisions for "Physically Handicapped Persons" have been bypassed in the following areas:
 Inaccessible Control Interfaces (NBC 2016): All 12 residential lifts installed within the property feature flat, glass capacitive touch screens. These electronic panels offer zero tactile relief, physical feedback, or Braille indexing. This design directly violates National Building Code (NBC) 2016, Part 3, Section 13 guidelines mandating accessible lift systems for residential high-rises. *(See mandates/national/02-NBC-2016-Section-13-ANNEX-B.md for full text; verified against MOHUA Guidelines 2021)*
