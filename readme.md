@@ -1,6 +1,6 @@
 # Accessibility Sources and Ideas
 
-**Current Version:** [**v1.0.2-alpha**](VERSIONING.md) (Phase 2: Verified pilot — in progress)  
+**Current Version:** [**v1.1.0-alpha**](VERSIONING.md) (Phase 2: Verified pilot — in progress)  
 ⚠️ **Under Review** — This repository is in active review. Legal citations, compliance claims, and procedure guidance are being verified. Users should independently verify all information with current official sources before relying on it for decisions. Contributions and feedback welcome—see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 **Status Update (2026-11-10):** 

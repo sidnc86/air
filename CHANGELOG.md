@@ -4,7 +4,7 @@ All notable changes to this project are documented here. This changelog is desig
 
 ---
 
-## [v1.0.2-alpha] — 2026-11-10
+## [v1.1.0-alpha] — 2026-11-10
 
 ### Overview
 

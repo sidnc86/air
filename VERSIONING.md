@@ -12,7 +12,7 @@ MAJOR.MINOR.PATCH[-PRERELEASE]
 
 ### Current Version
 
-**v1.0.1-alpha** (as of 2026-11-10)
+**v1.1.0-alpha** (as of 2026-11-10)
 
 ---
 
