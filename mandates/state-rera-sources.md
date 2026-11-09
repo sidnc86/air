@@ -1,0 +1,14 @@
+# State RERA Source Index
+
+This is a discovery index, not a complete legal-source pack or a guide to filing in each state. Links were checked on 2026-11-04; most linked documents have not been text-checked. A state authority page does not establish which accessibility or building rules apply to a particular property.
+
+| State | Official authority/source leads | Status and limits |
+|---|---|---|
+| Maharashtra | [MahaRERA](https://www.maharera.maharashtra.gov.in/); [buyer guidance](https://www.maharera.maharashtra.gov.in/guidance-home-buyers-0); [complaint portal entry](https://maharerait.maharashtra.gov.in/login/) | Authority and entry points checked. Current end-to-end filing steps, fees, forms, and time limits are not verified here. |
+| Karnataka | [Karnataka RERA allottee quick links](https://rera.karnataka.gov.in/quicklinksallottee); [Real Estate Act PDF](https://rera.karnataka.gov.in/resources/staticpage/Real_Estate_Act.pdf); [Karnataka RERA Rules 2017 PDF](https://rera.karnataka.gov.in/resources/staticpage/FinalRERA_Rules-2017_kannada.pdf) | Links found on the authority site; PDF text and amendment completeness not reviewed. Rules document is Kannada. No Karnataka filing or building-accessibility guide is asserted. |
+| Rajasthan | [Rajasthan RERA](https://rera.rajasthan.gov.in/); [RERA Rules 2017 PDF](https://reraapp.rajasthan.gov.in/Content/pdf/RERA_Rules_2017.pdf); [Regulations 2024 PDF](https://reraapp.rajasthan.gov.in/Content/pdf/Regulations-2024.pdf); [authority-promoted complaint video](https://youtu.be/qFLka0B0oDk) | Links found; document contents, currentness, amendment completeness, and procedure not reviewed. |
+| Uttar Pradesh | [UP RERA](https://up-rera.in/); [FAQ PDF](https://up-rera.in/pdf/faq.pdf); [complaint redressal SOP PDF](https://up-rera.in/pdf/SOP.pdf); [complaint entry](https://up-rera.in/ComplaintHome) | Links found; text, amendments, fees, and complete current procedure not reviewed. The `/downloads` page returned Not Found when checked and is intentionally omitted. |
+| Haryana | [Haryana RERA](https://haryanarera.gov.in/); [Gurugram authority entry](https://haryanarera.gov.in/login/loginview/1); [Panchkula authority entry](https://haryanarera.gov.in/login/loginview/2) | Authority pages checked; the site distinguishes Gurugram district and the rest of Haryana (Panchkula). Rules and detailed filing resources not verified in this pass. |
+| Gujarat | [Gujarat RERA](https://gujrera.gujarat.gov.in/) | Authority reachable; direct rules, forms, and procedure sources were not verified in this pass. Authority-only entry. |
+
+The central RERA Act is linked once from the Karnataka authority's quick-links page above and indexed with other national sources in [`legal-mandates-sources.md`](legal-mandates-sources.md). Detailed state procedures and state-specific accessibility/building-rule applicability are Phase 2 work.

@@ -1,0 +1,11 @@
+Respected Authority,
+I am filing this formal complaint as a citizen of India, a resident of Pune, and a person with permanent visual impairment. My wife and I are both blind. We recently occupied our flat at Majestique Marbella, Wing D, and face systematic, structural segregation daily due to the developer's complete failure to adhere to mandatory barrier-free architectural bylaws.
+The project is currently active and processing phases towards final clearances. We bring to your immediate notice that the basic structural provisions for "Physically Handicapped Persons" have been bypassed in the following areas:
+Inaccessible Control Interfaces (NBC 2016): All 12 residential lifts installed within the property feature flat, glass capacitive touch screens. These electronic panels offer zero tactile relief, physical feedback, or Braille indexing. This design directly violates National Building Code (NBC) 2016, Part 3, Section 13 guidelines mandating accessible lift systems for residential high-rises.
+Amenity Exclusion (UDCPR Regulation 33.1): The public common spaces, including the community clubhouse, society library, and swimming pool complex, are configured exclusively with stairs. Reaching the pool requires a physical staircase climb equivalent to 4 floors, with no physical ramp alternatives or localized platform lifts installed.
+Absence of Orientation Tracks: The open-to-sky walkways, common podium paths, and approaches leading to the individual wing entrances completely lack tactile warning and guiding blocks (directional grooved tiles), making autonomous navigation highly hazardous for blind residents.
+Statutory Mandate & Prayer:
+Under the Unified Development Control and Promotion Regulations (UDCPR) 2020 of Maharashtra, statutory verification of barrier-free design is a structural prerequisite for completion clearances.
+We urgently pray that the MAHARERA take appropriate action to inspect the project for lack of said compliances and ensure that Promoter/Builder takes necessary steps to provide Accessible access to all areas of the premise available to all other residents including but not limited to interactive control interfaces (such as installing tactile Braille indicators) and corrects the architectural access paths to the amenities.
+Sincerely,
+Siddhant Chothe and Anjana Kale

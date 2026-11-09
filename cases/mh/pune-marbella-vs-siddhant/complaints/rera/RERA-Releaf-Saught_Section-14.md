@@ -1,0 +1,6 @@
+Relief Sought under Section 14(1) and 14(3):
+1. Under Section 14(1): Direct the Promoter (Majestique Landmarks / Majestique Empires LLP) to strictly adhere to statutory project specifications mandated by the Competent Authority (PMC) under Maharashtra UDCPR 2020 (Regulation 33.1) and National Building Code (NBC) 2016 (Part 3, Section 13). The current flat touch-panels on all 12 residential lifts completely lack tactile feedback, rendering them fundamentally non-compliant with standard barrier-free building specifications.
+2. Under Section 14(3): Declare the lack of universal tactile/Braille controls in the common elevators and the absence of ramp/lift access to the common amenities (Clubhouse, Library, Swimming Pool) as a critical "defect in the provision of services and statutory obligations" of the promoter.
+3. Specific Orders Prayed For: Direct the promoter to rectify these defects immediately and without further charge to the allottees by:
+• Installing Braille button panels by replacing the current touch-screen panels.
+• Constructing accessible guiding pathways and ramp infrastructures to ensure independent, barrier-free ingress and egress to all common society amenities.
