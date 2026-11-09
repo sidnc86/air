@@ -18,7 +18,11 @@ Real RERA complaints, appeals, and advocacy work are the foundation of this know
 
 ## Folder Guide
 
-- [`mandates/`](mandates/README.md) contains candidate laws, rules, standards, and guidance. Source records state what has and has not been verified. See [`legal-mandates-sources.md`](mandates/legal-mandates-sources.md) for the URL-to-markdown conversion strategy and verification status.
+- [`mandates/`](mandates/README.md) contains candidate laws, rules, standards, and guidance **stored as markdown for LLM accessibility**. Large PDFs (63+ MB) have been extracted and converted to searchable markdown files with live government source URLs for verification and amendment tracking. Source records state what has and has not been verified. See [`legal-mandates-sources.md`](mandates/legal-mandates-sources.md) for:
+  - ✅ Converted markdown mandates with extraction dates
+  - 📋 Official government source URLs for compliance verification
+  - 🔔 Community update-tracking framework (flag outdated material via GitHub issues)
+  - 📊 Verification status of each mandate
 - [`cases/`](cases/) contains real RERA complaints, appeals, relief-sought sections, and supporting evidence shared by community members. These materials are preserved as authored and are not modified. **[Help us build this knowledge base](#our-mission-knowledge-through-cases)—share your case to help others.**
 - [guides/](guides/README.md) contains independently written procedural orientation, beginning with a preliminary Maharashtra RERA guide.
 - [solutions/](solutions/touch-panel/README.md) contains practical ideas and references. A proposal is not evidence that a design meets a standard or works for every user.

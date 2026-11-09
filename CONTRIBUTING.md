@@ -2,6 +2,37 @@
 
 This project collects source-attributed information about making physical environments more accessible to disabled people, older people, families, practitioners, and others who use or maintain buildings.
 
+---
+
+## Mandate Storage & Markdown Conversion
+
+**Large government mandates and building codes are stored as markdown** for LLM accessibility and repository optimization. 
+
+### Why Markdown?
+- **Reduced Repo Size:** Large PDFs (e.g., MOHUA Guidelines: 63.13 MB → 0.55 MB) are extracted to searchable markdown
+- **LLM Accessibility:** AI models can efficiently process and integrate markdown-formatted standards and regulations
+- **Offline Availability:** Full text remains accessible even if government PDFs are moved or removed
+- **Verification Links:** Each markdown file includes live government source URLs for current compliance verification and amendment tracking
+
+### Mandate Markdown Locations
+- **National Mandates:** `mandates/national/0X-[Name].md`
+- **State Mandates:** `mandates/state/0X-[Name].md` or `mandates/[STATE]/0X-[Name].md`
+
+### Verification & Update Tracking
+Each markdown file includes:
+- Official source URL for verification
+- Original document date and edition
+- Extraction date (when converted to markdown)
+- Community update-tracking framework
+
+**See [`mandates/legal-mandates-sources.md`](mandates/legal-mandates-sources.md) for:**
+- Complete list of converted mandates
+- Verification status of each source
+- How to flag outdated material via GitHub issues
+- Update tracking table
+
+---
+
 ## Case Materials: Sharing Your Advocacy
 
 **Cases are the foundation of this knowledge base.** The `cases/` folder contains real RERA complaints, appeals, evidence, and relief-sought submissions—your own advocacy work and lived experience. These materials are published to serve as concrete references and templates for community members pursuing similar cases.
