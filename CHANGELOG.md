@@ -181,7 +181,7 @@ For Copilot/Claude/GPT using this repo:
 
 ### Commits
 
-**Commit Hash:** `703f902`  
+**Commit Hash:** `9d588c6 `  
 **Message:** "Phase 2 Critical Legal Work: Convert RPwD Act & Real Estate Act to markdown, verify NBC 2016, update mandate index and complaint cross-links"
 
 ### Files Affected
@@ -262,7 +262,7 @@ This pattern scales to other states' mandates in Phase 2 expansion.
 
 ### Commits
 
-**Commit Hash:** `27b3c07`  
+**Commit Hash:** `2cc62f4 `
 **Message:** "Phase 1: Initial publication - AIR (Accessibility in India Repo)"
 
 ### Files Affected
@@ -318,7 +318,7 @@ For Copilot/Claude/GPT analyzing this repo: These changes establish the foundati
 
 ### Commits
 
-**Commit Hash:** `27b3c07`  
+**Commit Hash:** `2cc62f4 `
 **Message:** "Phase 1: Initial publication - AIR (Accessibility in India Repo)"
 
 ### Files Affected
@@ -426,7 +426,7 @@ Each converted mandate markdown file includes:
 
 ### Commits
 
-**Commit Hash:** `088a209`  
+**Commit Hash:** `a3b2f9e`
 **Message:** "Phase 1 Addendum: PDF-to-Markdown Conversion & Repository Optimization"
 
 ### Files Affected
