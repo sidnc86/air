@@ -35,3 +35,7 @@ package-lock.json
 # Session files
 .session/
 session-state/
+
+# python virtual environment
+venv/
+env/
