@@ -49,7 +49,7 @@ Agreements, Index II, demand letters, payment statements, receipts, ID documents
 
 1. **Contact the maintainer privately** with a short description: state, authority, building type, status, and the barriers involved. Do not attach evidence at this stage.
 2. **Prepare the case together.** Agree what will be published, how you will be credited, and which licence applies.
-3. **Privacy review.** A reviewer other than you checks the material against the checklist in `PRIVACY.md`, including file metadata.
+3. **Privacy review.** A reviewer other than you checks the material against the checklist in `PRIVACY.md`, including file metadata. For now, there is no dedicated reviewer appointed. Anybody with relevant legal experience willing to volunteer is welcome. Till then, it would be the maintainor having access to the dedicated email and yourself together getting this right.
 4. **Pull request.** Only reviewed material is committed, in a new folder: `cases/<state-code>/<city>-<short-slug>/`. Do not name individuals in the slug.
 
 Pull requests that add case material without this review will be closed and, where needed, removed from history.
