@@ -1,22 +1,80 @@
 # Contributing
 
-This project collects source-attributed information about making physical environments more accessible to disabled people, older people, families, practitioners, and others who use or maintain buildings.
+This project collects source-attributed information about making buildings in India accessible to disabled people, older people, families, practitioners, and others who use or maintain them.
+
+**Read [`PRIVACY.md`](PRIVACY.md) before contributing anything about a real case.** It sets out what may be published (Tiers A, B and C). Where this guide and `PRIVACY.md` seem to differ, `PRIVACY.md` applies.
 
 ---
 
-## Mandate Storage & Markdown Conversion
+## Ways to contribute
 
-**Large government mandates and building codes are stored as markdown** for LLM accessibility and repository optimization. 
+| What | Tier | Route |
+|---|---|---|
+| Flag an outdated or broken mandate source | A | [Mandate update issue](.github/ISSUE_TEMPLATE/mandate-update.md) |
+| Correct or improve a guide, solution or template | A | Pull request |
+| Add a new mandate record or guide | A | Pull request, following `SOURCES.md` |
+| Share your accessibility case | B | Private contact first, then a reviewed pull request |
+| Original agreements, payment records, ID documents, others' data | C | Not accepted |
 
-### Why Markdown?
-- **Reduced Repo Size:** Large PDFs (e.g., MOHUA Guidelines: 63.13 MB → 0.55 MB) are extracted to searchable markdown
-- **LLM Accessibility:** AI models can efficiently process and integrate markdown-formatted standards and regulations
-- **Offline Availability:** Full text remains accessible even if government PDFs are moved or removed
-- **Verification Links:** Each markdown file includes live government source URLs for current compliance verification and amendment tracking
+If you cannot use GitHub, contact the maintainer for a non-technical route. Do not send Tier C material through any route.
 
-### How to Convert PDFs to Markdown
+---
 
-**New:** Use the automated PDF to Markdown converter to digitize mandates efficiently:
+## Before proposing material
+
+- Start with an official source where possible. Record the issuer, title, edition or date, URL, date checked, pinpoint (only if verified) and rights status, as set out in `SOURCES.md`.
+- Keep source text separate from your summary, experience and recommendations. Mark what is unverified. Do not claim legal applicability or compliance without support.
+- Public availability is not permission to republish. Keep third-party text short, cite it, and do not upload source documents unless reuse rights are clear.
+- Use descriptive file names with hyphens, no spaces, and no personal details in file or folder names.
+
+---
+
+## Sharing your case
+
+Cases show others how the law applies in practice and what a complaint actually involves. A case is shared as a written summary and your own filings, never as your original evidence bundle.
+
+### What a published case contains
+
+- `case-summary.md`, written using [`templates/case-summary.md`](templates/case-summary.md)
+- Your own filed text (complaint, relief sought, submissions), with identifiers removed
+- Authority orders and notices, where they are public record and contain no Tier C details
+- Photos of common areas showing the barrier, with metadata stripped and no people, name plates, flat numbers or vehicle numbers visible
+- Your own measurements, timelines and proposed solutions
+
+### What stays with you
+
+Agreements, Index II, demand letters, payment statements, receipts, ID documents, portal screenshots with personal details, medical records, and anything containing other people's personal data. Keep these safely for your own case. They are not published here, even redacted.
+
+### How to submit a case
+
+1. **Contact the maintainer privately** with a short description: state, authority, building type, status, and the barriers involved. Do not attach evidence at this stage.
+2. **Prepare the case together.** Agree what will be published, how you will be credited, and which licence applies.
+3. **Privacy review.** A reviewer other than you checks the material against the checklist in `PRIVACY.md`, including file metadata.
+4. **Pull request.** Only reviewed material is committed, in a new folder: `cases/<state-code>/<city>-<short-slug>/`. Do not name individuals in the slug.
+
+Pull requests that add case material without this review will be closed and, where needed, removed from history.
+
+### Corrections and withdrawal
+
+Filed documents are not rewritten to change their meaning. Add updates as new, dated files in your case folder. Privacy corrections and withdrawals are always allowed: see `PRIVACY.md`.
+
+---
+
+## Tools for preparing a case
+
+1. **Case formulation prompt** ([`prompts/formulate-case.md`](prompts/formulate-case.md)): structures your narrative, links barriers to applicable mandates (RPwD Act, RERA, NBC, MOHUA), identifies evidence gaps and runs a publication checklist.
+2. **Legal claims verification prompt** ([`prompts/verify-legal-claims.md`](prompts/verify-legal-claims.md)): checks claims against the statutes, rates evidence as supported, partially supported or insufficient, and suggests relevant RERA sections.
+
+See [`QUICK-START-GOVERNANCE-UTILITIES.md`](QUICK-START-GOVERNANCE-UTILITIES.md) for examples. These prompts run on third-party AI services: remove Tier C details before pasting any case material into them. Their output is a starting point, not legal advice.
+
+---
+
+## Mandates as Markdown
+
+Large government mandates and building codes are converted to Markdown so they are searchable, small to store, and usable by AI tools. Each file records its official source URL, document date and edition, and extraction date.
+
+To convert a PDF:
+
 ```bash
 cd scripts
 pip install -r requirements.txt
@@ -28,111 +86,34 @@ python pdf-to-markdown.py input.pdf output.md --url "https://source.gov/doc.pdf"
 python pdf-to-markdown.py --batch config.json
 ```
 
-See [`scripts/README.md`](scripts/README.md) for complete usage guide, OCR support for scanned documents, batch processing examples, and troubleshooting.
+See [`scripts/README.md`](scripts/README.md) for OCR, batch processing and troubleshooting.
 
-### Mandate Markdown Locations
-- **National Mandates:** `mandates/national/0X-[Name].md`
-- **State Mandates:** `mandates/state/0X-[Name].md` or `mandates/[STATE]/0X-[Name].md`
+Locations:
 
-### Verification & Update Tracking
-Each markdown file includes:
-- Official source URL for verification
-- Original document date and edition
-- Extraction date (when converted to markdown)
-- Community update-tracking framework
+- National mandates: `mandates/national/0X-<name>.md`
+- State mandates: `mandates/<STATE>/0X-<name>.md`
 
-**See [`mandates/legal-mandates-sources.md`](mandates/legal-mandates-sources.md) for:**
-- Complete list of converted mandates
-- Verification status of each source
-- How to flag outdated material via GitHub issues
-- Update tracking table
+Record each conversion in [`mandates/legal-mandates-sources.md`](mandates/legal-mandates-sources.md) with its verification and rights status. Converting a document does not give permission to redistribute it: check rights before committing full text.
 
 ---
 
-## Case Materials: Sharing Your Advocacy
+## Where material belongs
 
-**Cases are the foundation of this knowledge base.** The `cases/` folder contains real RERA complaints, appeals, evidence, and relief-sought submissions—your own advocacy work and lived experience. These materials are published to serve as concrete references and templates for community members pursuing similar cases.
-
-**If you have your own case material to contribute:**
-- Your individual complaint documents, relief-sought submissions, and supporting evidence (unmodified) strengthen the collective knowledge base.
-- By sharing your case, you help others understand the actual RERA and building-code complaint process, common barriers, and documented evidence of accessibility violations.
-- Case contributions must be **your own authored material** and should follow the sharing guidelines below.
-- See [Case Material Guidelines](#case-material-guidelines-for-contributors) for details.
-
-### New: Governance Utilities for Case Preparation
-
-**Utilities to help you prepare and validate your case:**
-
-1. **Case Formulation Prompt** (`prompts/formulate-case.md`)
-   - Structure your case narrative into organized legal format
-   - Identify accessibility barriers and link to applicable mandates (RPWD Act, RERA, NBC)
-   - Organize evidence and identify gaps before filing
-   - Prepare publication checklist (privacy, rights, de-identification)
-   - Use with any LLM (ChatGPT, Claude, Gemini) or GitHub Copilot
-
-2. **Legal Claims Verification Prompt** (`prompts/verify-legal-claims.md`)
-   - Validate your claims against Indian law (RPWD Act, Real Estate Act, NBC, MOHUA)
-   - Assess evidence adequacy (supported / partially supported / insufficient)
-   - Identify evidence gaps and prioritize what to gather
-   - Get recommendations for applicable RERA relief sections
-   - Use before filing to strengthen your complaint
-
-**Quick Start:** See [`QUICK-START-GOVERNANCE-UTILITIES.md`](QUICK-START-GOVERNANCE-UTILITIES.md) for usage examples with any LLM.
-
----
-
-## Before Proposing Material
-
-- Start with an official source where possible. Record the title, issuer, URL, edition/date, date checked, exact pinpoint if verified, and rights status using `SOURCES.md`.
-- Separate source text from your summary, experience, and recommendation. State what is unverified and avoid claiming legal applicability or compliance without support.
-- For **case materials:** Do not submit confidential, private correspondence, or third-party information (e.g., other residents' data, builder internal documents). Your own advocacy documents are welcome.
-- **Do not edit, rename, move, add, remove, copy, summarize, or redact existing material** in `cases/`. Case materials are immutable once published. If you need to correct or update your case file, create a new dated entry within your case folder.
-- Public availability is not permission to republish. Keep third-party text short where permitted, cite it, and do not upload source documents unless reuse rights are clear.
-- Use descriptive filenames with hyphens or underscores; avoid spaces.
-
----
-
-## Case Material Guidelines for Contributors
-
-### What Can Be Shared
-- Your own RERA complaints (formal filings).
-- Your own relief-sought sections and amendments.
-- Your own correspondence with regulatory authorities or builders.
-- Proof materials you created or captured (photos, measurements, documentation).
-- Your own summaries, timelines, and case notes.
-
-### What Should NOT Be Shared
-- Private correspondence from other residents, family members, or third parties (without explicit written consent).
-- Builder internal documents, confidential business records, or proprietary information.
-- Personal health data, financial details, or other privacy-sensitive information (yours or others').
-- Third-party copyrighted material, unless you have clear permission to redistribute.
-
-### How to Contribute
-The repository does not yet provide a private intake form. Use one of these approaches:
-
-1. **For public material or material already filed with authorities:** Open a GitHub issue or PR with a clear description of your case, the jurisdiction, the status, and your consent to publish. Provide filenames and a brief context for each file.
-2. **For material you want to discuss privately before publishing:** Contact the maintainer directly (LinkedIn or email) with a summary and samples. We can discuss publication terms, anonymization options, or private archival before making any decisions.
-3. **For accessibility:** If you cannot use GitHub, ask the maintainer about a nontechnical contribution route.
-
-### Attribution and Credit
-- **Authorship:** Material will be credited to you as the author/filer unless you prefer anonymity.
-- **Anonymity:** You can request that your case be published under an anonymized reference (e.g., "Case: State, Year, Building Type" without your name or property address).
-- **License:** Your case materials remain your copyright by default. They are published under the repository's immutable-archive model, meaning they are preserved as filed and not modified. You can choose to license your material under CC BY 4.0 or retain full copyright.
-
----
-
-## Where Material Belongs
-
-- `mandates/`: links and concise records for laws, rules, standards, and official guidance with source attribution and verification status.
-- `guides/`: independently written, sourced procedures with verification gaps clearly stated.
+- `mandates/`: records and Markdown conversions of laws, rules, standards and official guidance, with source and verification status.
+- `guides/`: independently written, sourced procedures, with verification gaps stated.
 - `solutions/`: practical ideas and technical references, clearly distinguished from tested or standards-compliant designs.
-- `cases/`: immutable archives of user-authored advocacy documents, complaints, evidence, and case summaries. **Do not use this folder as an upload destination through PRs.** Contact the maintainer to discuss how to add a new case folder.
-- `templates/`: blank contribution aids, not case-specific examples.
+- `cases/`: reviewed case folders as described above. Not an upload destination for unreviewed material.
+- `templates/`: blank contribution aids.
+- `prompts/`: reusable AI prompts.
 
 ---
 
-## How to Contribute (Guidance and Solutions)
+## Credit and licence
 
-The repository does not yet provide a private intake or automated upload service. Public GitHub contribution channels should be used only after they are established and only for material cleared for public sharing. If you cannot use Git, ask the maintainer about a nontechnical route without sending sensitive files through a public channel. Credit preferences should be explicit; anonymous contribution can be discussed before publication.
+- **Credit:** by name, by pseudonym, or anonymously. Your choice is recorded before publication.
+- **Anonymous cases** use a reference such as "Maharashtra, 2026, residential tower" without your name or address.
+- **Licence:** original project text is covered by [`LICENSE.md`](LICENSE.md). Your case material remains your copyright unless you choose to license it under CC BY 4.0.
 
-See `PRIVACY.md`, `SOURCES.md`, and `LICENSE.md` before preparing a contribution.
+## Contact
+
+For private case discussions, contact the maintainer at: `[dedicated air repository email](sidnc86.air@gmail.com)`
