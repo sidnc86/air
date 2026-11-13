@@ -24,6 +24,26 @@ Earliest commencement certificate on file: 04/06/2020. Latest: 03/03/2025.
 - **The 2023 and 2025 certificates refer to UDCPR 2020** (Regulation 8.2.1, note (v)). UDCPR's own barrier-free rules exclude residences (Regulation 13.1.2); see [`../../../mandates/PRECEDENCE.md`](../../../mandates/PRECEDENCE.md).
 - **Lift control panel height differs by standard.** Harmonised Guidelines 2016 (7.4.5): 800–1 000 mm. NBC 2016 (B-6.4.5) and IS 4963 : 2025 (11.4.5): 900–1 100 mm. A panel at 1.45 m is above all of them.
 
+## Phases, wings and the standard that applied
+
+MahaRERA registrations as recorded by the maintainer on 2026-11-14. Certificates are matched to phases by the maintainer's file names; confirm the match against the approvals uploaded on each MahaRERA registration page.
+
+| Phase | MahaRERA registration | Wings | Use | Units | Commencement certificates | Rule 15(1)(a) standard |
+|---|---|---|---|---|---|---|
+| 1 | P52100025697 | E, F | Residential | 177 | CC/0047/20 (4 Jun 2020) | HG 2016 |
+| 2 | P52100030349 | C, D | Commercial | 60 (C 32, D 28) | CC/0443/20 (28 Aug 2020) | HG 2016 |
+| 3 | P52100030934 | A, B | Commercial | 30 (A 18, B 12) | CC/1430/21 (27 Aug 2021) | HG 2016 |
+| 4 | P52100031184 | D | Residential | 93 | CC/1430/21 (27 Aug 2021), CC/2729/21 (16 Dec 2021) | HG 2016 |
+| 5 | P52100032450 | B, C | Residential | Not shown on MahaRERA | CC/2729/21 (16 Dec 2021), CC/0035/23 (5 Apr 2023) | HG 2016 |
+| 6 | P52100051012 | A | Residential | 93 | CC/0035/23 (5 Apr 2023), CC/3775/24 (3 Mar 2025) | HG 2016 at first; HG 2021 for the 2025 revision |
+
+**Reading the table:**
+
+- **All commercial floors (phases 2 and 3, wings A to D)** were approved while HG 2016 was the Rule 15 standard. Because the shops are open to the public, this is where Rule 15 applies most clearly. HG 2016 governs their lifts, entrances and approach.
+- **Residential wings B to F (phases 1, 4 and 5)** were all approved under HG 2016. Phase 5's last certificate (5 April 2023) came two months before the switch to HG 2021.
+- **Wing A residential (phase 6)** spans both editions. Its 2025 revised certificate was issued under HG 2021, and after the Supreme Court's November 2024 judgment on Rule 15 (see [`../../../mandates/PRECEDENCE.md`](../../../mandates/PRECEDENCE.md)).
+- **Revised certificates may cover more than their phase.** Each certificate is a revision of the same file (KRD/0052/08), and some carry "Layout of building". If the latest revision re-approved the whole layout, it may be the operative permission for earlier wings too. **Needs legal review.**
+
 ## Project layout
 
 - Six residential wings, A to F.
@@ -53,6 +73,7 @@ These points support a request for equal access across residences, amenities and
 
 ## Still needed
 
-- Which certificate covers each wing (A to F) and the commercial floors, from the sanctioned plans or the MahaRERA project registration.
+- Confirmation, from the approvals uploaded on each MahaRERA registration page, that each certificate covers the phases shown above.
+- The number of units in phase 5 (not yet shown on MahaRERA).
 - The sanctioned plans for that certificate, to see whether accessibility features were shown.
 - The occupancy or completion certificate for that building, since Section 44(2) also applies at completion.
