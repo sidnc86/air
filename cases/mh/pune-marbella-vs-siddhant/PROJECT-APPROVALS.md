@@ -24,8 +24,35 @@ Earliest commencement certificate on file: 04/06/2020. Latest: 03/03/2025.
 - **The 2023 and 2025 certificates refer to UDCPR 2020** (Regulation 8.2.1, note (v)). UDCPR's own barrier-free rules exclude residences (Regulation 13.1.2); see [`../../../mandates/PRECEDENCE.md`](../../../mandates/PRECEDENCE.md).
 - **Lift control panel height differs by standard.** Harmonised Guidelines 2016 (7.4.5): 800–1 000 mm. NBC 2016 (B-6.4.5) and IS 4963 : 2025 (11.4.5): 900–1 100 mm. A panel at 1.45 m is above all of them.
 
+## Project layout
+
+- Six residential wings, A to F.
+- Wings A to D face the road and have commercial shops on two floors.
+- The shops have their own set of lifts and are reached from the road, outside the residential premises.
+- Every certificate above gives the proposal type as **"Resi+Comm"** (residential plus commercial).
+
+## Which instruments reach each part of the project
+
+The test that matters under Rule 15(1)(a) is whether a space is part of a "public building": a building used or accessed by the public at large (RPwD Act, Section 2(w)). That test gives different answers for different parts of a mixed-use project.
+
+| Part of the project | Who uses it | Rule 15(1)(a) standard | Other support |
+|---|---|---|---|
+| Commercial shops and their lifts (wings A to D) | The public at large | **Applies most clearly**: a commercial building open to the public is a public building under Section 2(w) | HG 2016 Chapter 4, Category 2 (commercial); HG 2021 6.6 (retail and commercial buildings); NBC 2016 Table 8; NBCS 2026 Part D 5A, 9.4.1 (lifts open to the public) |
+| Road-side approach to the shops | The public at large | Applies with the shops | HG 2016 5.1 and 5.4 (site planning, approaches) and 10.1 (car parks); HG 2021 Chapter 3 (external elements) |
+| Residential common areas: entrances, lobbies, lifts, corridors, parking | Residents, visitors, staff, delivery and service workers | **Needs legal review** (whether "accessed by the public at large") | HG 2016 Chapter 4 lists residential buildings and asks for access in new apartment buildings for sale; HG 2021 6.1 (residential buildings); NBC 2016 Table 8 and IS 4963 Clause 5 cover all common areas of private-developer housing |
+| Amenities: clubhouse, gym, pool, gardens, play areas | Residents and guests | Same as residential common areas | NBC 2016 Table 8 and IS 4963 Clause 5 name clubs, sports facilities and parks expressly |
+| Flats | Owners and their households | Least likely to be covered by Rule 15 | NBC 2016 Table 8 and IS 4963 Clause 5: 5% fully accessible, the rest with universal design features (door widths, one adaptable toilet) |
+
+## Why equal access matters beyond the current residents
+
+- Any flat may be sold to an older person or a person with a disability, and current residents will age in place. IS 4963 : 2025 states that the universal design features for the 95% of homes are meant to let occupants adapt to their needs and facilitate ageing-in-place.
+- The RPwD Act treats housing as a public facility and service (Section 2(x)), prohibits discrimination on the ground of disability (Section 3), and defines universal design as design usable by all people without the need for adaptation (Section 2(ze)).
+- Retrofitting after completion costs more and is often limited by the structure (lift shaft size, level differences). Asking for compliance at the plan and completion stage, which is what Section 44 requires, avoids that.
+
+These points support a request for equal access across residences, amenities and the commercial area. They do not settle the legal question in the table above.
+
 ## Still needed
 
-- Which certificate covers the building and lifts complained about.
+- Which certificate covers each wing (A to F) and the commercial floors, from the sanctioned plans or the MahaRERA project registration.
 - The sanctioned plans for that certificate, to see whether accessibility features were shown.
 - The occupancy or completion certificate for that building, since Section 44(2) also applies at completion.
