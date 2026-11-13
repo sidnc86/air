@@ -7,6 +7,8 @@ All notable changes to this project are documented here. This changelog is desig
 ## [Unreleased]
 
 ### Added
+- **MoUD Harmonised Guidelines 2016:** [`05-MoUD-Harmonised-Guidelines-2016.md`](mandates/national/05-MoUD-Harmonised-Guidelines-2016.md), the Rule 15(1)(a) standard from 15 June 2017 to 4 June 2023.
+- **Marbella project approvals:** [`PROJECT-APPROVALS.md`](cases/mh/pune-marbella-vs-siddhant/PROJECT-APPROVALS.md) lists the six commencement certificates (June 2020 to March 2025) and which Harmonised Guidelines edition applied on each date.
 - **[`mandates/PRECEDENCE.md`](mandates/PRECEDENCE.md):** order of authority from the RPwD Act down to BIS standards, residential coverage, the date rule for choosing a version, and citation rules for contributors and the bot.
 - **RPwD Act, 2016 full text** with notes on the sections that matter for buildings: [`03-RPWD-Act-2016.md`](mandates/national/03-RPWD-Act-2016.md). The earlier extract file now points to it.
 - **RPwD Rules, 2017** as amended to 2024: [`04-RPWD-Rules-2017.md`](mandates/national/04-RPWD-Rules-2017.md), with notes on Rule 15(1)(a) and the switch from the 2016 to the 2021 Harmonised Guidelines on 5 June 2023.

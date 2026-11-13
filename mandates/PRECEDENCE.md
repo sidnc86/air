@@ -12,7 +12,7 @@ Higher levels prevail over lower ones where they conflict. A lower level can sti
 |---|---|---|---|---|
 | 1 | Rights of Persons with Disabilities Act, 2016 | [`national/03-RPWD-Act-2016.md`](national/03-RPWD-Act-2016.md) | Central statute | Binding in itself |
 | 2 | RPwD Rules, 2017 (Rule 15 on accessibility standards) | [`national/04-RPWD-Rules-2017.md`](national/04-RPWD-Rules-2017.md) | Rules made under Sections 40 and 100 of the Act | Binding in itself. See the court challenge noted below |
-| 3 | Standards that Rule 15(1)(a) prescribes "for public buildings": Harmonised Guidelines 2016 until 4 June 2023, Harmonised Guidelines 2021 from 5 June 2023 | [`national/01-MOHUA-building-guidelines-2021.md`](national/01-MOHUA-building-guidelines-2021.md); 2016 edition **missing** | Government guidelines | Binding through Rule 15(1)(a), for public buildings |
+| 3 | Standards that Rule 15(1)(a) prescribes "for public buildings": Harmonised Guidelines 2016 until 4 June 2023, Harmonised Guidelines 2021 from 5 June 2023 | [`national/05-MoUD-Harmonised-Guidelines-2016.md`](national/05-MoUD-Harmonised-Guidelines-2016.md); [`national/01-MOHUA-building-guidelines-2021.md`](national/01-MOHUA-building-guidelines-2021.md) | Government guidelines | Binding through Rule 15(1)(a), for public buildings |
 | 4 | State planning law and building regulations (Maharashtra: MRTP Act, 1966 and UDCPR 2020) | [`mh/01-UDCPR-2016-Maharashtra.md`](mh/01-UDCPR-2016-Maharashtra.md) | State law and regulations | Binding for building permission in the state |
 | 5 | Real Estate (Regulation and Development) Act, 2016 | [`mh/02-Real-Estate-Act-2016-Sections-11-15.md`](mh/02-Real-Estate-Act-2016-Sections-11-15.md) | Central statute | Binds the promoter to the sanctioned plans, specifications and what was advertised or agreed |
 | 6 | BIS codes and standards: NBC 2016, NBCS 2026, IS 4963 : 2025, IS 15330 : 2020 | [`national/02-NBC-2016-Accessibility-Clause-Map.md`](national/02-NBC-2016-Accessibility-Clause-Map.md); others not yet mapped | Voluntary national standards | Only where a law, regulation, sanction condition or contract adopts them. Otherwise persuasive evidence of good practice |
@@ -46,7 +46,7 @@ RERA sits at level 5 because it does not set accessibility standards of its own.
 | Instrument | Common areas of a private apartment project | Notes |
 |---|---|---|
 | RPwD Act, Section 44 | Arguably yes, for any new structure | Applies the Rule 15 standards to building permission and completion |
-| Rule 15(1)(a) | **Depends on whether the project is a "public building"** | The adopted guidelines cover housing (2021 edition, Chapter 6.1), but Rule 15 adopts them "for public buildings" |
+| Rule 15(1)(a) | **Depends on whether the project is a "public building"** | Both editions cover housing: the 2016 edition lists residential buildings among public buildings that must comply and asks for access elements in new apartment buildings for rent or sale (Chapter 4); the 2021 edition covers apartments and group housing (Chapter 6.1). Rule 15 adopts them "for public buildings" |
 | UDCPR 2020, Regulation 13.1 | No | Residences excluded by 13.1.2 |
 | RERA | Indirectly | Through sanctioned plans, specifications and promises |
 | NBC 2016, Table 8 | Yes, if adopted | Not adopted by UDCPR for residences |
@@ -68,7 +68,7 @@ A project is generally assessed against the rules in force when its building per
 | 5 June 2023 to the NBCS 2026 date | NBC 2016, Part 3, Clause 13 and Annex B | Section 44 with Rule 15(1)(a): Harmonised Guidelines 2021, for public buildings |
 | After the NBCS 2026 date | IS 4963 : 2025 (through NBCS 2026) | Section 44 with Rule 15(1)(a) as it then stands, subject to the court challenge |
 
-Record the building permission and commencement certificate dates in every case summary so the right row can be chosen.
+Record the building permission and commencement certificate dates in every case summary so the right row can be chosen. Large projects often have several revised certificates spanning both periods; record each one, as in the Marbella case's [`PROJECT-APPROVALS.md`](../cases/mh/pune-marbella-vs-siddhant/PROJECT-APPROVALS.md).
 
 ---
 
@@ -86,7 +86,8 @@ Record the building permission and commencement certificate dates in every case 
 
 - [x] Add RPwD Rules, 2017 (added 2026-11-13 from an unofficial consolidation; check amendments against the Gazette).
 - [ ] Confirm *Rajive Raturi v. Union of India* (Supreme Court, November 2024) and whether replacement rules have been notified.
-- [ ] Add the Harmonised Guidelines 2016 (Ministry of Urban Development), which governed projects approved before 5 June 2023.
+- [x] Add the Harmonised Guidelines 2016 (added 2026-11-13).
+- [ ] Decide, with legal advice, whether a revised building permission granted after 2017 counts as a fresh permission under Section 44 when the original file predates the Act.
 - [ ] Find the BIS notice giving the date NBCS 2026 replaced NBC 2016.
 - [ ] Check UDCPR amendments after 2020, especially to Regulation 13.1.
 - [ ] Add clause maps for IS 4963 : 2025 and IS 15330 : 2020, with a comparison against NBC 2016 Annex B.
