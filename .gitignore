@@ -38,4 +38,7 @@ session-state/
 
 # python virtual environment
 venv/
-env/cases/**/attachments/
+env/
+
+# case attachments that may carry private data
+cases/**/attachments/

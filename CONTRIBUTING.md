@@ -116,4 +116,4 @@ Record each conversion in [`mandates/legal-mandates-sources.md`](mandates/legal-
 
 ## Contact
 
-For private case discussions, contact the maintainer at: `[dedicated air repository email](sidnc86.air@gmail.com)`
+For private case discussions, contact the maintainer at: [sidnc86.air@gmail.com](mailto:sidnc86.air@gmail.com)

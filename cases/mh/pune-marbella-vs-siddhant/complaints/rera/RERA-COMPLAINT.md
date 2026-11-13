@@ -1,6 +1,6 @@
 Respected Authority,
 
-**🔗 [Verification Status](../../../../../../CHANGELOG.md#phase-2-critical-legal-items-statute-conversions--verification):** This complaint includes cross-links to verified statutory sources. All national statutes and NBC 2016 requirements cited below have been converted to markdown and verified as of 2026-11-10. See [legal-mandates-sources.md](../../../../../../mandates/legal-mandates-sources.md) for verification details.
+**🔗 [Verification Status](../../../../../CHANGELOG.md#phase-2-critical-legal-items-statute-conversions--verification):** This complaint includes cross-links to verified statutory sources. All national statutes and NBC 2016 requirements cited below have been converted to markdown and verified as of 2026-11-10. See [legal-mandates-sources.md](../../../../../mandates/legal-mandates-sources.md) for verification details.
 
 I am filing this formal complaint as a citizen of India, a resident of Pune, and a person with permanent visual impairment. My wife and I are both blind. We recently occupied our flat at Majestique Marbella, Wing D, and face systematic, structural segregation daily due to the developer's complete failure to adhere to mandatory barrier-free architectural bylaws.
 The project is currently active and processing phases towards final clearances. We bring to your immediate notice that the basic structural provisions for "Physically Handicapped Persons" have been bypassed in the following areas:

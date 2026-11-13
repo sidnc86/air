@@ -62,7 +62,7 @@ The root [`LICENSE`](LICENSE) and [`LICENSE.md`](LICENSE.md) describe a limited 
 
 ## Contributing
 
-Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before proposing material. **Case contributions are especially welcome**—see the [Case Material Guidelines](CONTRIBUTING.md#case-material-guidelines-for-contributors) to share your RERA complaint, appeals, or advocacy documents.
+Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) before proposing material. **Case contributions are especially welcome**—see the [Case Material Guidelines](CONTRIBUTING.md#sharing-your-case) to share your RERA complaint, appeals, or advocacy documents.
 
 The project does not yet provide private intake. Do not send sensitive records through public GitHub features unless you have consented to public sharing. If GitHub contribution channels are enabled later, only rights-cleared public material should be submitted there.
 
