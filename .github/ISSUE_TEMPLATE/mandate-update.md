@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Mandate/Standard:**
-<!-- Name of the mandate, regulation, or standard (e.g., "MOHUA Guidelines 2021", "NBC 2016 Section 13", "UDCPR Maharashtra") -->
+<!-- Name of the mandate, regulation, or standard (e.g., "MOHUA Guidelines 2021", "NBC 2016, Part 3, Clause 13", "UDCPR Maharashtra") -->
 
 
 **Official Source:**

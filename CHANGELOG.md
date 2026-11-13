@@ -4,6 +4,22 @@ All notable changes to this project are documented here. This changelog is desig
 
 ---
 
+## [Unreleased]
+
+### Changed
+- **NBC 2016:** replaced the full-text conversion with [`02-NBC-2016-Accessibility-Clause-Map.md`](mandates/national/02-NBC-2016-Accessibility-Clause-Map.md), a clause index for Part 3, Clause 13 and Annex B with summaries in the project's own words. The earlier file was mostly unreadable font codes, and the text is BIS copyright.
+- **NBC official source:** linked the [BIS NBC page](https://www.bis.gov.in/standards/national-building-code/?lang=en) and the full Volume 1 hosted by the [Uttarakhand Town and Country Planning Department](https://tcp.uk.gov.in/document/national-building-code-of-india-2016-vol-i-part-1/). Linked only; not stored in the repository.
+- **Citation form:** "NBC 2016, Part 3, Clause 13 / Annex B" replaces "Section 13" in mandates, prompts and guides. Filed case documents are unchanged; see the citation note in the Marbella case folder.
+
+### Fixed
+- **Lift control heights** in prompts and guides: car control panel 900–1 100 mm (B-6.4.5) and landing call button 800–1 000 mm (B-6.4.4). These were previously stated as 900–1 200 mm.
+- Broken links to the removed NBC file in `mandates/legal-mandates-sources.md` and `mandates/national/README.md`.
+
+### Verified
+- **NBC clause map:** all 105 figures checked against the Uttarakhand-hosted official text (SP 7:2016, third revision) using OCR, since the PDF's text layer is unreadable. All matched. Post-2016 amendments still to be checked.
+
+---
+
 ## [v1.1.0-alpha] — 2026-11-10
 
 ### Overview

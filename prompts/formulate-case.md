@@ -53,7 +53,7 @@ The output should follow the structure of `templates/case-summary.md`:
 
 ### Building Accessibility Standards
 - **RPWD Act 2016, Sections 40, 41** – Building accessibility requirements and standards
-- **NBC 2016, Section 13, Annex B** – Specific technical standards for accessible buildings
+- **NBC 2016, Part 3, Clause 13 and Annex B** – Specific technical standards for accessible buildings
 - **MOHUA Guidelines 2021** – Universal design principles and accessibility implementation
 
 ### Real Estate Complaint and Relief Framework
@@ -74,7 +74,7 @@ Based on mandates, typical issues include:
 - Parking space accessibility (slope, surface, signage)
 
 **Vertical Access**
-- Lift dimensions, button placement height (900–1200 mm per NBC)
+- Lift dimensions, button placement height (car control panel 900–1 100 mm, call button 800–1 000 mm, per NBC Annex B)
 - Lift button Braille and tactile labeling
 - Stair design, handrail specifications
 
@@ -149,7 +149,7 @@ For each verified accessibility violation, suggest:
 - Section 36 relief options (specific performance, compensation, refund)
 
 **Building Code Violations**
-- NBC 2016 Section 13 deviations
+- NBC 2016, Part 3, Clause 13 deviations
 - MOHUA Guidelines non-compliance
 
 **RPWD Act Violations**
@@ -221,7 +221,7 @@ Generate a **Case Formulation Summary** with the following sections:
 
 **Applicable Standards:**
 - RPWD Act 2016, Section [X]
-- NBC 2016, Section 13, [specific subsection]
+- NBC 2016, Part 3, Clause 13, [specific subsection]
 - MOHUA Guidelines 2021, [guideline reference]
 
 **Evidence Inventory:**
@@ -240,7 +240,7 @@ Generate a **Case Formulation Summary** with the following sections:
 | Accessibility Issue | Applicable Statute | Section(s) | Evidence Status | Relief Category |
 |---|---|---|---|---|
 | [Issue 1] | RPWD Act 2016 | 40, 41 | Supported | Specific Performance |
-| [Issue 2] | NBC 2016 | Section 13 | Partially Supported | Compensation |
+| [Issue 2] | NBC 2016 | Part 3, Clause 13 / Annex B | Partially Supported | Compensation |
 
 ---
 
@@ -297,7 +297,7 @@ Generate a **Case Formulation Summary** with the following sections:
 
 2. **Distinguish allegations from facts:**
    - **Allegation:** "The builder ignored accessibility requirements" (requires support)
-   - **Fact:** "Lift buttons are positioned at 1.45m; NBC 2016 requires 900–1200mm" (verifiable)
+   - **Fact:** "Lift buttons are positioned at 1.45m; NBC 2016 (B-6.4.5) requires the car control panel at 900–1 100 mm" (verifiable)
 
 3. **Anonymization:**
    - Support anonymized case contributions
@@ -342,18 +342,18 @@ Generate a **Case Formulation Summary** with the following sections:
 
 **Technical Facts:**
 - Button height: 1.45 meters (measured)
-- NBC 2016 Section 13 requires: 900–1200 mm
+- NBC 2016, Part 3, Annex B, B-6.4.5 requires: 900–1 100 mm (car control panel)
 - MOHUA Guidelines: Braille/tactile labeling mandatory
 
 **Applicable Standards:**
 - RPWD Act 2016, Section 40 (building accessibility), Section 41 (standards)
-- NBC 2016, Section 13, Annex B (lift requirements)
+- NBC 2016, Part 3, Clause 13 and Annex B (lift requirements)
 - MOHUA Guidelines 2021 (Braille signage)
 
 **Evidence Inventory:**
 - ✅ Photos (3 images of lift panel)
 - ✅ Measurement document
-- ❌ Missing: NBC Section 13 technical specification text (optional, strengthens complaint)
+- ❌ Missing: NBC Part 3, Clause 13 technical specification text (optional, strengthens complaint)
 - ❌ Missing: Professional accessibility audit
 
 **Applicable Relief:**
@@ -362,7 +362,7 @@ Generate a **Case Formulation Summary** with the following sections:
 
 ## Next Steps
 1. File RERA Section 11 complaint with photos and measurements
-2. Reference NBC 2016 Section 13 and RPWD Act Sections 40, 41
+2. Reference NBC 2016, Part 3, Clause 13 and RPWD Act Sections 40, 41
 3. Request specific performance (button retrofit and Braille installation)
 4. Consider conciliation (RERA Section 61) if dispute arises
 

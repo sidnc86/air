@@ -2,10 +2,16 @@
 
 **Document mapped:** National Building Code of India 2016, Volume 1, Part 3 (Development Control Rules and General Building Requirements), Clause 13 and Annex B
 **Publisher and rights holder:** Bureau of Indian Standards (BIS)
-**Official copy:** purchase from BIS (https://www.services.bis.gov.in/). The full text is not reproduced in this repository.
+**Official sources (link only):**
+- BIS overview of the National Building Code: https://www.bis.gov.in/standards/national-building-code/?lang=en
+- Full Volume 1, hosted by the Uttarakhand Town and Country Planning Department: [document page](https://tcp.uk.gov.in/document/national-building-code-of-india-2016-vol-i-part-1/) ([direct PDF](https://cdnbbsr.s3waas.gov.in/s35f4f78111ff6538d1f5ea498032c4745/uploads/2025/03/202503261284340577.pdf), uploaded March 2025)
+- Printed copies: BIS and authorised booksellers
+
+**Rights:** BIS holds copyright. A copy hosted by a government department is a reliable reference, not a licence to republish, so this repository links to it and does not store the PDF or its text.
 **What this file is:** an index of clause numbers with requirements summarised in this project's own words, so readers can find and cite the right clause.
-**What this file is not:** a substitute for the official text. Check every figure against an official BIS copy before relying on it in a complaint, design or legal argument.
-**Prepared:** 2026-11, from a third-party excerpt titled "NBC 2016 Excerpts Relating to the needs of PWD". Not yet checked against an official BIS copy.
+**What this file is not:** a substitute for the official text. Cite the official text in a complaint, design or legal argument.
+**Prepared:** 2026-11, from a third-party excerpt titled "NBC 2016 Excerpts Relating to the needs of PWD".
+**Verification status:** figures checked 2026-11-13 against the Uttarakhand-hosted copy of SP 7:2016 (NBC 2016, Volume 1, third revision, © BIS). All 105 dimensional figures in this map matched; "shall" and "should" wording was spot-checked. In that PDF, Clause 13 starts on PDF page 154 and Annex B runs from about PDF page 167. The PDF's text layer is unreadable, so the check used OCR of the page images.
 **Replaces:** `02-NBC-2016-Section-13-ANNEX-B.md` (a full-text conversion that was mostly unreadable and raised rights concerns)
 
 ---
@@ -238,5 +244,5 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 
 ## Open items
 
-- Check every figure above against an official BIS copy and record the edition and amendment status.
+- Check BIS for amendments issued after 2016.
 - Record which state regulations or rules make these clauses binding for Maharashtra residential projects (cross-reference `01-UDCPR-2016-Maharashtra.md` and the RPwD Act records).

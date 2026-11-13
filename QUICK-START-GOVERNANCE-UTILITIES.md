@@ -96,10 +96,10 @@ Verification Status: SUPPORTED
 
 Applicable Statutes:
 - RPWD Act 2016, Section 40 (building accessibility)
-- NBC 2016, Section 13, Annex B (lift requirements)
+- NBC 2016, Part 3, Clause 13 and Annex B (lift requirements)
 
 Evidence Gaps:
-- Missing: NBC Section 13 technical specification text
+- Missing: NBC Part 3, Clause 13 technical specification text
 - Missing: Professional accessibility audit
 
 Recommended Relief:
@@ -160,14 +160,14 @@ to include in a RERA complaint.
 ## Accessibility Issues Identified
 
 ### Issue 1: Lift Button Accessibility
-- Technical facts: Buttons positioned 1.45m (exceed 1200mm standard)
-- Applicable law: RPWD Act Section 40, NBC Section 13
+- Technical facts: Buttons positioned 1.45m (above the 1 100 mm upper limit in NBC B-6.4.5)
+- Applicable law: RPWD Act Section 40, NBC Part 3, Clause 13
 - Relief: RERA Section 36 (specific performance)
 - Evidence gaps: Measurements, expert audit
 
 ### Issue 2: Clubhouse Access
 - Technical facts: Stairs only, no ramp
-- Applicable law: NBC Section 13 (ramp requirements)
+- Applicable law: NBC Part 3, Clause 13 (ramp requirements)
 - Relief: RERA Section 36 (specific performance)
 - Evidence gaps: Building plan, slope measurements
 

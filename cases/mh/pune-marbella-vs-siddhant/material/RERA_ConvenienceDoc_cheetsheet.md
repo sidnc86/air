@@ -14,7 +14,7 @@
 
 # National Mandates 
 
-1. National Building Code (NBC) 2016: Part 3, Section 13 (Mandatory audio announcements and Braille/tactile indicators in high-rise residential lifts). 
+1. National Building Code (NBC) 2016: Part 3, Clause 13 (Mandatory audio announcements and Braille/tactile indicators in high-rise residential lifts). 
 
 2. The Rights of Persons with Disabilities (RPWD) Act, 2016: Section 44 (Mandatory accessibility standards for all public and private common-use buildings). 
 

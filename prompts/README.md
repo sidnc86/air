@@ -177,7 +177,7 @@ Both prompts reference the following Indian legal framework:
 ### National
 - **RPWD Act 2016** – Rights of Persons with Disabilities (Sections 40–44, 47)
 - **Real Estate Act 2016** – RERA (Sections 11, 14, 18, 36, 38, 61)
-- **NBC 2016, Section 13, Annex B** – Building accessibility standards
+- **NBC 2016, Part 3, Clause 13 and Annex B** – Building accessibility standards
 - **MOHUA Guidelines 2021** – Universal design and accessibility implementation
 
 ### State (Maharashtra Example)
@@ -252,7 +252,7 @@ Evidence:
 - Building plan showing parking layout (from RERA registration)
 ```
 
-**Output:** Verification report mapping each claim to RPWD Act sections 40/41, NBC 2016 Section 13, MOHUA guidelines; recommending RERA Section 36 specific performance relief
+**Output:** Verification report mapping each claim to RPWD Act sections 40/41, NBC 2016, Part 3, Clause 13, MOHUA guidelines; recommending RERA Section 36 specific performance relief
 
 ### Example 2: Case Formulation Before Filing
 

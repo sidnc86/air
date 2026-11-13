@@ -19,7 +19,7 @@ Add sourcing, attribution, privacy, contribution, and scoped licensing guidance;
 1. **Marbella case verification and statutory cross-linking complete.** Three key statutes converted to markdown and verified:
    - ✅ RPWD Act 2016 (Sections 40, 44-47) — National accessibility duty verified for complaint claims
    - ✅ Real Estate Act 2016 (Sections 11-15) — Relief framework with accessibility annotations verified for complaint relief section
-   - ✅ NBC 2016 Section 13 — Lift Braille requirement verified via MOHUA 2021 cross-check
+   - ✅ NBC 2016, Part 3, Clause 13 — Lift Braille requirement verified via MOHUA 2021 cross-check
 
    RERA-COMPLAINT.md now has full statutory traceability. See [CHANGELOG.md](CHANGELOG.md) v1.0.1-alpha for verification details and [legal-mandates-sources.md](mandates/legal-mandates-sources.md) for source status.
 

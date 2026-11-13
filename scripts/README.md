@@ -65,11 +65,11 @@ Create a configuration file `config.json`:
       "title": "MOHUA Building Guidelines 2021"
     },
     {
-      "input": "mandates/national/nbc-section-13.pdf",
-      "output": "mandates/national/02-NBC-2016-Section-13.md",
-      "url": "https://bis.org.in/bislive75/liveHome/",
-      "date": "2016-01-01",
-      "title": "NBC 2016, Section 13 - Building Safety"
+      "input": "mandates/national/rpwd-act-2016.pdf",
+      "output": "mandates/national/03-RPWD-Act-2016.md",
+      "url": "https://www.indiacode.nic.in/",
+      "date": "2016-12-28",
+      "title": "Rights of Persons with Disabilities Act, 2016"
     }
   ]
 }

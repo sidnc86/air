@@ -66,15 +66,15 @@ This document demonstrates how the legal claims verification and case formulatio
 
 **Applicable Standards:**
 - RPWD Act 2016, Section 40 (building accessibility), Section 41 (standards)
-- NBC 2016, Section 13, Annex B (lift requirements)
-  - Control buttons must be at 900–1200 mm height
+- NBC 2016, Part 3, Clause 13 and Annex B (lift requirements)
+  - Lift car control panel at 900–1 100 mm (B-6.4.5); landing call button at 800–1 000 mm (B-6.4.4)
   - Braille and tactile labeling required
 - MOHUA Guidelines 2021 (Braille signage standards)
 
 **Evidence Inventory:**
 - ✅ Available: Photos of lift control panel
 - ❌ Missing: Measurement of panel height and button size
-- ❌ Missing: NBC Section 13 technical specification reference
+- ❌ Missing: NBC Part 3, Clause 13 technical specification reference
 - ❌ Missing: Expert accessibility audit confirming non-compliance
 
 **Applicable Relief:**
@@ -93,7 +93,7 @@ This document demonstrates how the legal claims verification and case formulatio
 
 **Applicable Standards:**
 - RPWD Act 2016, Section 40 (building common areas accessibility), Section 41 (standards)
-- NBC 2016, Section 13 (ramp specifications, accessible routes)
+- NBC 2016, Part 3, Clause 13 (ramp specifications, accessible routes)
   - Ramps: maximum slope 1:12 (8.33%)
   - Width: minimum 1200 mm
   - Handrails on both sides for slopes > 1:20
@@ -121,7 +121,7 @@ This document demonstrates how the legal claims verification and case formulatio
 
 **Applicable Standards:**
 - RPWD Act 2016, Section 41 (accessibility standards)
-- NBC 2016, Section 13, Annex B (tactile paving, wayfinding specifications)
+- NBC 2016, Part 3, Clause 13 and Annex B (tactile paving, wayfinding specifications)
 - MOHUA Guidelines 2021 (wayfinding, guidance systems)
 
 **Evidence Inventory:**
@@ -153,7 +153,7 @@ This document demonstrates how the legal claims verification and case formulatio
 
 **Evidence Gaps (Priority for Gathering):**
 1. **Highest Priority:** Measurements (lift panel height, stair dimensions, ramp slopes)
-   - Why: NBC Section 13 defines specific measurements; measurements prove non-compliance
+   - Why: NBC Part 3, Clause 13 defines specific measurements; measurements prove non-compliance
 2. **Medium Priority:** Building plan and RERA registration documents
    - Why: Establishes building scope and RERA jurisdiction
 3. **Medium Priority:** Professional accessibility audit
@@ -165,7 +165,7 @@ This document demonstrates how the legal claims verification and case formulatio
 
 **Before Filing RERA Complaint:**
 1. Obtain building RERA registration copy (verify registration and project scope)
-2. Measure lift panel height and button size (reference NBC 2016 Section 13)
+2. Measure lift panel height and button size (reference NBC 2016, Part 3, Clause 13)
 3. Measure or calculate stair slopes and route dimensions
 4. Organize photos with dates and location descriptions
 5. Consider professional accessibility audit (builds credibility)
@@ -173,7 +173,7 @@ This document demonstrates how the legal claims verification and case formulatio
 **Filing RERA Complaint:**
 1. File complaint under RERA Section 11 (5-year window from possession)
 2. Attach evidence package: photos, measurements, RERA registration copy
-3. Reference applicable sections: RPWD Act 40/41, NBC 2016 Section 13, MOHUA Guidelines
+3. Reference applicable sections: RPWD Act 40/41, NBC 2016, Part 3, Clause 13, MOHUA Guidelines
 4. Request specific relief: Lift retrofit + accessible routes + wayfinding installation
 5. Request compensation for accessibility defect (under RERA Section 36)
 
