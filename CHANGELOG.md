@@ -6,7 +6,14 @@ All notable changes to this project are documented here. This changelog is desig
 
 ## [Unreleased]
 
+### Added
+- **[`mandates/PRECEDENCE.md`](mandates/PRECEDENCE.md):** order of authority from the RPwD Act down to BIS standards, residential coverage, the date rule for choosing a version, and citation rules for contributors and the bot.
+- **RPwD Act, 2016 full text** with notes on the sections that matter for buildings: [`03-RPWD-Act-2016.md`](mandates/national/03-RPWD-Act-2016.md). The earlier extract file now points to it.
+- **RPwD Rules, 2017** as amended to 2024: [`04-RPWD-Rules-2017.md`](mandates/national/04-RPWD-Rules-2017.md), with notes on Rule 15(1)(a) and the switch from the 2016 to the 2021 Harmonised Guidelines on 5 June 2023.
+- **Records** for NBCS 2026, IS 4963 : 2025, IS 15330 : 2020 and RPwD Rules Rule 15 in `mandates/legal-mandates-sources.md`.
+
 ### Changed
+- **MoHUA Harmonised Guidelines 2021:** reconverted from the NIUA PDF with headings, tables and page markers, replacing the earlier line-by-line extraction.
 - **NBC 2016:** replaced the full-text conversion with [`02-NBC-2016-Accessibility-Clause-Map.md`](mandates/national/02-NBC-2016-Accessibility-Clause-Map.md), a clause index for Part 3, Clause 13 and Annex B with summaries in the project's own words. The earlier file was mostly unreadable font codes, and the text is BIS copyright.
 - **NBC official source:** linked the [BIS NBC page](https://www.bis.gov.in/standards/national-building-code/?lang=en) and the full Volume 1 hosted by the [Uttarakhand Town and Country Planning Department](https://tcp.uk.gov.in/document/national-building-code-of-india-2016-vol-i-part-1/). Linked only; not stored in the repository.
 - **Citation form:** "NBC 2016, Part 3, Clause 13 / Annex B" replaces "Section 13" in mandates, prompts and guides. Filed case documents are unchanged; see the citation note in the Marbella case folder.
