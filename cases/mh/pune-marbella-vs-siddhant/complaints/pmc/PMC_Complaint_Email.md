@@ -1,14 +1,6 @@
-7/3/26, 3 ~~:~~ 53 PM 
-
-Inbox ~~-~~ Siddhant Chothe ~~-~~ Outlook 
-
-# &® Outlook 
-
-Re: OFFICIAL COMPLAINT Respected Sir/Madam,UNDER UDCPR 2020 & THE RPWD ACT 2016 
-
 From PMC FMC <feedback@punecorporation.org> 
 
-Date Sun 2026 ~~-0~~ 5 ~~-3~~ 1 17:54 
+Date Sun 2026 -05-31 17:54 
 
 To — Siddhant Chothe <email redacted>
 
@@ -28,7 +20,7 @@ On Sun, May 31, 2026 at 5:40 PM Siddhant Chothe < ~~Email Redacted~~ > wrote:
 
 Thank you for taking Cognizance of the matter pertaining to Accessibility barriers and lapses. 
 
-- Please let me know further steps. Will there be an inspection carried out in our society premises? 
+Please let me know further steps. Will there be an inspection carried out in our society premises? 
 
 I understand I will be able to track status of the concern in provided link. But in case resolution needs my coordination in terms of helping involved teams understand issues and other details, who will be my Point of Contact? 
 
@@ -36,9 +28,11 @@ Many thanks! This is new beginning in history of Pune City where citizens and Go
 
 Get <u>Outlook for iOS</u> 
 
-From: PMC FMC < ~~feedback@punecorporation.org~~ > Sent: Tuesday, 26 May 2026 15:22:10 To: Building Permission Department < ~~bp@punecorporation.org~~ >; Social Development Department < ~~sdd@punecorporation.org~~>
-
-Cc: Siddhant Chothe ~~<Email Redacted>~~ Subject: Fwd: OFFICIAL COMPLAINT UNDER UDCPR 2020 & THE RPWD ACT 2016 
+From: PMC FMC < ~~feedback@punecorporation.org~~ >
+Sent: Tuesday, 26 May 2026 15:22:10
+To: Building Permission Department < ~~bp@punecorporation.org~~ >; Social Development Department < ~~sdd@punecorporation.org~~>
+Cc: Siddhant Chothe ~~<Email Redacted>~~
+Subject: Fwd: OFFICIAL COMPLAINT UNDER UDCPR 2020 & THE RPWD ACT 2016 
 
 Dear Sir/Madam, Please look into this. 
 
@@ -72,13 +66,16 @@ I'm including Social Development Department's email address in this email thread
 From: Siddhant Chothe ~~<Email Redacted>~~
 Sent: Tuesday, May 26, 2026 2:09 PM
 To: ~~feedback@punecorporation.org~~ <~~feedback@punecorporation.org~~>
-Ce: anju kale ~~<Email Redacted>~~ 
+CC: anju kale ~~<Email Redacted>~~ 
 
 Subject: OFFICIAL COMPLAINT UNDER UDCPR 2020 & THE RPWD ACT 2016 
 
 From: Siddhant Chothe and Anjana Kale Flat 503, Wing D, Majestique Marbella, Chaudhari Vasti, Ashokanagar, Kharadi, Pune - 411014. Against: M/s Majestique Landmarks (Developer) Project: Majestique Marbella (MahaRERA No: P52100025697) To: 
 
-The Grievance Officer, Pune Municipal Corporation Forward Copy to: Director, Social Welfare Department, Pune. Respected Authority,
+The Grievance Officer, Pune Municipal Corporation
+Forward Copy to: Director, Social Welfare Department, Pune.
+
+Respected Authority,
 
 I am filing this formal complaint as a citizen of India, a resident of Pune, and a person with permanent visual impairment. My wife and I are both blind. We recently occupied our flat at Majestique Marbella, Wing D, and face systematic, structural segregation daily due to the developer's complete failure to adhere to mandatory barrier-free architectural bylaws. The project is currently active and processing phases towards final clearances. We bring to your immediate notice that the basic structural provisions for "Physically Handicapped Persons" have been bypassed in the following areas: 
 
