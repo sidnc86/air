@@ -8,6 +8,8 @@
 - Printed copies: BIS and authorised booksellers
 
 **Rights:** BIS holds copyright. A copy hosted by a government department is a reliable reference, not a licence to republish, so this repository links to it and does not store the PDF or its text.
+If you need a copy, sign-up on BIS and search for the document. A downloadable PDF is available watermarked with your personal information.
+
 **What this file is:** an index of clause numbers with requirements summarised in this project's own words, so readers can find and cite the right clause.
 **What this file is not:** a substitute for the official text. Cite the official text in a complaint, design or legal argument.
 **Prepared:** 2026-11, from a third-party excerpt titled "NBC 2016 Excerpts Relating to the needs of PWD".
@@ -56,9 +58,9 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 
 | Clause | Topic | Requirement (summary) | Force |
 |---|---|---|---|
-| B-1.1.1.2 | Wheelchair size | Reference dimensions for a manual wheelchair (length about 1 000–1 100, open width about 650–720). | Guidance |
+| B-1.1.1.2 | Wheelchair size | Reference dimensions for a manual wheelchair (length about 1000–1100, open width about 650–720). | Guidance |
 | B-1.1.1.3 | Knee space | Space under counters and stands at least 350 deep and 700 high. | Shall |
-| B-1.1.1.4 | Clear floor space | At least 900 × 1 200 for a stationary wheelchair; preferably 900 × 1 350 where the user transfers. | Mixed |
+| B-1.1.1.4 | Clear floor space | At least 900 × 1200 for a stationary wheelchair; preferably 900 × 1350 where the user transfers. | Mixed |
 | B-1.1.1.5 | Turning space | 1500 minimum diameter to turn; 1800 comfortable; 2000 ideal. | Guidance |
 | B-1.1.2–B-1.1.3 | Crutch and cane users | Space allowances for people using crutches, walking aids and white canes. | Guidance |
 | B-1.2–B-1.4 | Reach, vision, heights | Forward and side reach ranges, vision zones, and heights for controls and entrance doors. | Guidance |
