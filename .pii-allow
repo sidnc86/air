@@ -1,0 +1,13 @@
+# Literal strings the personal-data scan accepts (scripts/pii_scan.py).
+# Only role-based or officially published contacts, as allowed by PRIVACY.md.
+# Review every entry; record when it was last checked.
+
+# Project contact (checked 2026-11-14)
+sidnc86.air@gmail.com
+
+# Contacts kept in the Marbella case documents (checked 2026-11-14)
+bp@punecorporation.org
+crm.marbella@majestique.co.in
+facilities.marbella@majestique.co.in
+feedback@punecorporation.org
+sdd@punecorporation.org

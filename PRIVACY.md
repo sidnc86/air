@@ -20,11 +20,19 @@ A case is shared as an independently written summary plus the contributor's own 
 
 - Sale agreements, Index II, allotment letters, demand letters, payment statements, receipts, bank or transaction records
 - Identity documents and numbers: Aadhaar, PAN, passport, voter ID, driving licence
-- Phone numbers, email addresses, home addresses, flat or unit numbers, vehicle numbers, signatures
+- Personal phone numbers and email addresses, home addresses, flat or unit numbers, vehicle numbers, signatures (official contact details are covered below)
 - Portal screenshots that show login details, contact details or personal dashboards
 - Medical records, disability certificates, or health details beyond what the contributor chooses to state in general terms
 - Personal data of anyone other than the contributor (neighbours, family, staff, officials' personal contacts)
 - Private correspondence written by someone else, and builders' internal or confidential documents
+
+### Official contact details
+
+Role-based contact details (for example a company's customer relations address or a department's grievance address), and official contacts that an authority or company publishes itself on its website or in a public order, may be included so that others know where to raise similar concerns. Give a link to where the detail is published when one exists.
+
+Not allowed: an official's or employee's individual address, phone number or other contact that they or their employer have not published, even if it was used in correspondence. Replace it with the role (for example "builder's project manager").
+
+Contact details go stale. Record the date they were last checked.
 
 ## Privacy review (Tier B)
 

@@ -8,8 +8,8 @@ Filed documents refer to "NBC 2016, Part 3, Section 13". The correct form is **N
 
 ## Lift control heights
 
-- Car control panel: 900–1 100 mm above floor, with Braille and raised characters; touch panels not permitted (Annex B, B-6.4.5).
-- Landing call button: 800–1 000 mm above floor (Annex B, B-6.4.4).
+- Car control panel: 900–1100 mm above floor, with Braille and raised characters; touch panels not permitted (Annex B, B-6.4.5).
+- Landing call button: 800–1000 mm above floor (Annex B, B-6.4.4).
 
 A panel measured at 1.45 m is above both ranges.
 

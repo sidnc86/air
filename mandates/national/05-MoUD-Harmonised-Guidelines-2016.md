@@ -10,7 +10,7 @@
 
 - **Scope (Chapter 2):** the guidelines apply to all public buildings, including buildings where access is open to the general public.
 - **Residential (Chapter 4 and 4.1, Category 1):** the list of public buildings that must comply includes residential buildings, and new apartment buildings built for rent or sale should provide access elements for persons with disabilities. Chapter 12 covers adapted housing.
-- **Lifts (7.4):** minimum car 1 500 × 1 500 mm; door at least 900 mm; call button and car control panel both at 800–1 000 mm; Braille or raised buttons; grab bars at 900 mm on both sides and the rear. Note the control panel height differs from NBC 2016 and IS 4963 (900–1 100 mm).
+- **Lifts (7.4):** minimum car 1500 × 1500 mm; door at least 900 mm; call button and car control panel both at 800–1000 mm; Braille or raised buttons; grab bars at 900 mm on both sides and the rear. Note the control panel height differs from NBC 2016 and IS 4963 (900–1100 mm).
 - **Wording:** most provisions say "should"; some say "shall". Their binding force comes from Rule 15, not from the wording.
 
 ---

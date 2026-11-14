@@ -22,7 +22,7 @@ Earliest commencement certificate on file: 04/06/2020. Latest: 03/03/2025.
 - **The file itself dates from 2008** (KRD/0052/08), and the first proposal on these certificates was submitted in December 2014, before the Act. Whether a revised permission granted after 2017 is a fresh "permission to build" under Section 44, or whether the original file date controls, **needs legal review**.
 - **The printed conditions do not mention barrier-free access.** They include lift-related conditions (for example transparent lift doors and CCTV in lifts) but none on accessibility for persons with disabilities. The sanctioned plans attached to the certificates were not reviewed and may contain such provisions.
 - **The 2023 and 2025 certificates refer to UDCPR 2020** (Regulation 8.2.1, note (v)). UDCPR's own barrier-free rules exclude residences (Regulation 13.1.2); see [`../../../mandates/PRECEDENCE.md`](../../../mandates/PRECEDENCE.md).
-- **Lift control panel height differs by standard.** Harmonised Guidelines 2016 (7.4.5): 800–1 000 mm. NBC 2016 (B-6.4.5) and IS 4963 : 2025 (11.4.5): 900–1 100 mm. A panel at 1.45 m is above all of them.
+- **Lift control panel height differs by standard.** Harmonised Guidelines 2016 (7.4.5): 800–1000 mm. NBC 2016 (B-6.4.5) and IS 4963 : 2025 (11.4.5): 900–1100 mm. A panel at 1.45 m is above all of them.
 
 ## Phases, wings and the standard that applied
 

@@ -7,6 +7,8 @@ All notable changes to this project are documented here. This changelog is desig
 ## [Unreleased]
 
 ### Added
+- **Contribution checks:** `.github/workflows/contribution-checks.yml` scans files changed in each pull request for personal data (`scripts/pii_scan.py`) and limits web contributions on `contrib/` branches to allowed folders. `.pii-allow` lists the role-based and officially published contacts the scan accepts.
+- **PRIVACY.md, official contact details:** role-based and officially published contacts may be included, with a link to where they are published; individual staff or officials' contacts may not.
 - **MoUD Harmonised Guidelines 2016:** [`05-MoUD-Harmonised-Guidelines-2016.md`](mandates/national/05-MoUD-Harmonised-Guidelines-2016.md), the Rule 15(1)(a) standard from 15 June 2017 to 4 June 2023.
 - **Marbella project approvals:** [`PROJECT-APPROVALS.md`](cases/mh/pune-marbella-vs-siddhant/PROJECT-APPROVALS.md) lists the six commencement certificates (June 2020 to March 2025) and which Harmonised Guidelines edition applied on each date.
 - **[`mandates/PRECEDENCE.md`](mandates/PRECEDENCE.md):** order of authority from the RPwD Act down to BIS standards, residential coverage, the date rule for choosing a version, and citation rules for contributors and the bot.
@@ -15,13 +17,14 @@ All notable changes to this project are documented here. This changelog is desig
 - **Records** for NBCS 2026, IS 4963 : 2025, IS 15330 : 2020 and RPwD Rules Rule 15 in `mandates/legal-mandates-sources.md`.
 
 ### Changed
+- **NBC 2016 clause map:** status line explaining that NBCS 2026 replaced it for new projects; corrected guidance on obtaining copies. Measurements written without thousands spaces across project-authored files.
 - **MoHUA Harmonised Guidelines 2021:** reconverted from the NIUA PDF with headings, tables and page markers, replacing the earlier line-by-line extraction.
 - **NBC 2016:** replaced the full-text conversion with [`02-NBC-2016-Accessibility-Clause-Map.md`](mandates/national/02-NBC-2016-Accessibility-Clause-Map.md), a clause index for Part 3, Clause 13 and Annex B with summaries in the project's own words. The earlier file was mostly unreadable font codes, and the text is BIS copyright.
 - **NBC official source:** linked the [BIS NBC page](https://www.bis.gov.in/standards/national-building-code/?lang=en) and the full Volume 1 hosted by the [Uttarakhand Town and Country Planning Department](https://tcp.uk.gov.in/document/national-building-code-of-india-2016-vol-i-part-1/). Linked only; not stored in the repository.
 - **Citation form:** "NBC 2016, Part 3, Clause 13 / Annex B" replaces "Section 13" in mandates, prompts and guides. Filed case documents are unchanged; see the citation note in the Marbella case folder.
 
 ### Fixed
-- **Lift control heights** in prompts and guides: car control panel 900–1 100 mm (B-6.4.5) and landing call button 800–1 000 mm (B-6.4.4). These were previously stated as 900–1 200 mm.
+- **Lift control heights** in prompts and guides: car control panel 900–1100 mm (B-6.4.5) and landing call button 800–1000 mm (B-6.4.4). These were previously stated as 900–1200 mm.
 - Broken links to the removed NBC file in `mandates/legal-mandates-sources.md` and `mandates/national/README.md`.
 
 ### Verified

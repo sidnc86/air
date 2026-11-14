@@ -31,13 +31,13 @@ RERA sits at level 5 because it does not set accessibility standards of its own.
 
 **Harmonised Guidelines 2021.** MoHUA's guidelines cover residential buildings, including apartments, group housing and gated communities (Chapter 6.1), and state that no new built form should be sanctioned for approval or occupancy without incorporating accessibility standards. Rule 15(1)(a) adopts them as the standard "for public buildings" from 5 June 2023.
 
-**UDCPR 2020 (Maharashtra).** Regulation 13.1 contains its own barrier-free provisions, but Regulation 13.1.2 limits them to public buildings on plots larger than 2 000 m² and excludes private and public residences. NBC 2016 is named only in Regulation 1.3, as a source for the meaning of undefined words; UDCPR does not adopt NBC's accessibility chapter. The repository's copy is the 2020 text: check later amendments.
+**UDCPR 2020 (Maharashtra).** Regulation 13.1 contains its own barrier-free provisions, but Regulation 13.1.2 limits them to public buildings on plots larger than 2000 m² and excludes private and public residences. NBC 2016 is named only in Regulation 1.3, as a source for the meaning of undefined words; UDCPR does not adopt NBC's accessibility chapter. The repository's copy is the 2020 text: check later amendments.
 
 **NBC 2016.** Part 3, Clause 13 and Annex B applied accessibility requirements to housing by private developers. As a BIS model code it bound a project only where adopted. Its accessibility chapter was not carried into NBCS 2026.
 
 **NBCS 2026 (SP 7 : 2026).** The fourth revision, renamed the National Building Construction Standards. Its foreword states that it is voluntary and non-binding unless adopted, and that development control rules, including the old Part 3, are left to states. For accessibility it refers to IS 4963 : 2025 as good practice. For example, lifts open to the public are to meet IS 4963 (Part D, Section 5A, 9.4.1) and IS 15330 (9.4.2). The document itself does not state the date on which it replaced NBC 2016; the reported date of 30 April 2026 **needs a BIS notice** to confirm.
 
-**IS 4963 : 2025.** BIS's accessibility standard, aligned with NBC 2016 Annex B and stricter in places (for example, a ramp or lift required above the ground floor, and a 1 900 × 1 900 mm lift car for new establishments). Its Clause 5 covers housing by private developers. It is written as requirements but, like any BIS standard, binds only where adopted.
+**IS 4963 : 2025.** BIS's accessibility standard, aligned with NBC 2016 Annex B and stricter in places (for example, a ramp or lift required above the ground floor, and a 1900 × 1900 mm lift car for new establishments). Its Clause 5 covers housing by private developers. It is written as requirements but, like any BIS standard, binds only where adopted.
 
 ---
 

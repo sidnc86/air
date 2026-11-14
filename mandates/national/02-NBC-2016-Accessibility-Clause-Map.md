@@ -1,6 +1,7 @@
 # NBC 2016 Accessibility Clause Map
 
-**Document mapped:** National Building Code of India 2016, Volume 1, Part 3 (Development Control Rules and General Building Requirements), Clause 13 and Annex B and the latest advisory issued in NBCS SP7:2026
+**Document mapped:** National Building Code of India 2016, Volume 1, Part 3 (Development Control Rules and General Building Requirements), Clause 13 and Annex B
+**Status:** replaced for new projects by NBCS 2026 (SP 7 : 2026), which leaves development control rules to the states and refers to IS 4963 : 2025 for accessibility. This map remains the reference for projects approved while NBC 2016 was current; see [`../PRECEDENCE.md`](../PRECEDENCE.md).SP7:2026
 **Publisher and rights holder:** Bureau of Indian Standards (BIS)
 **Official sources (link only):**
 - BIS overview of the National Building Code: https://www.bis.gov.in/standards/national-building-code/?lang=en
@@ -8,7 +9,7 @@
 - Printed copies: BIS and authorised booksellers
 
 **Rights:** BIS holds copyright. A copy hosted by a government department is a reliable reference, not a licence to republish, so this repository links to it and does not store the PDF or its text.
-If you need a copy, sign-up on BIS and search for the document. A downloadable PDF is available watermarked with your personal information.
+To read the full text, use the Uttarakhand-hosted copy above. Current BIS standards (such as NBCS 2026 and IS 4963 : 2025) can be downloaded free after signing up on the BIS website; each page of those copies carries your name, email and IP address, so keep them for personal use and do not share or commit them.
 
 **What this file is:** an index of clause numbers with requirements summarised in this project's own words, so readers can find and cite the right clause.
 **What this file is not:** a substitute for the official text. Cite the official text in a complaint, design or legal argument.
@@ -70,7 +71,7 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 | Clause | Topic | Requirement (summary) | Force |
 |---|---|---|---|
 | B-2.2.1 ★ | Path surface | Smooth, firm, level surfaces suited to walking and wheeling; avoid cobbles and rough finishes. Cross-fall no steeper than 1:50. Rest seats about every 30 m on walks over 60 m. | Mixed |
-| B-2.2.2.1 ★ | Path width | Two-way paths at least 1 800 (can drop to 1500 with 1800 × 2000 passing spaces every 25 m). One-way paths at least 1200 (can drop to 1000 with the same passing spaces). | Shall |
+| B-2.2.2.1 ★ | Path width | Two-way paths at least 1800 (can drop to 1500 with 1800 × 2000 passing spaces every 25 m). One-way paths at least 1200 (can drop to 1000 with the same passing spaces). | Shall |
 | B-2.2.2.2 | Passing places | Paths narrower than 1800 and longer than 50 m need passing places no more than 25 m apart. | Mixed |
 | B-2.2.3 | Stepped paths | Where a ramp rises more than 300, steps must also be provided. A single isolated step is not acceptable. Tactile warnings at top and bottom. | Shall |
 | B-2.2.4 | Handrails on steps | Handrails on both sides of any flight of two or more risers; risers no higher than 150. | Shall |
@@ -93,9 +94,9 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 | B-3.1 | Location | Within 30 m of the main entrance, or of the lift lobby where access is by lift. | Shall |
 | B-3.2 | Number | At least 1 in every parking area. Up to 10 spaces: 1; up to 25: 2; up to 50: 3; up to 100: 4; up to 200: 6; above 200: 6 plus 1 per additional 100. | Shall |
 | B-3.3 | Signage | Accessibility symbol at approaches and entrances, directional signs, and marking on the bay. | Shall |
-| B-3.4 | Car park entrance | Height clearance at least 2 600. Payment machine controls between 800 and 1000 high. | Shall |
+| B-3.4 | Car park entrance | Height clearance at least 2600. Payment machine controls between 800 and 1000 high. | Shall |
 | B-3.5 | Bay size | At least 3900 wide (including a 1500 transfer zone) and 5400 long, on a firm, level surface. | Shall |
-| B-3.6 | Kerb ramp from bay | Kerb ramp at least 1 000 wide, close to the bay, linking to the route to the main entrance. | Should |
+| B-3.6 | Kerb ramp from bay | Kerb ramp at least 1000 wide, close to the bay, linking to the route to the main entrance. | Should |
 
 ### B-4 Approach to the building
 
@@ -120,7 +121,7 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 | B-5.3.3 ★ | Thresholds | None, ideally. If unavoidable, no higher than 12, bevelled above 5, and contrasting with the floor by at least 30 LRV points. | Shall |
 | B-5.3.4 | Space at doors | At least 600 clear beside the leading edge of the door so a wheelchair user can reach the handle. | Shall |
 | B-5.3.5 | Doors in series | At least 1500 plus the width of the door swinging into the space. | Shall |
-| B-5.3.6–B-5.3.7 | Door hardware | One-handed operation, no tight grasping or twisting, mounted 850–1 100 high. Lever or push-pull types preferred. | Shall |
+| B-5.3.6–B-5.3.7 | Door hardware | One-handed operation, no tight grasping or twisting, mounted 850–1100 high. Lever or push-pull types preferred. | Shall |
 | B-5.3.9 | Door closers | At least 3 seconds to close from 90° to nearly closed. | Should |
 | B-5.3.10 | Vision panels | On two-way and circulation doors, giving a view from 800 to 1500 high. | Shall |
 | B-5.3.12–B-5.3.13 | Door visibility | Door and frame contrast with the wall; no highly reflective finishes. Glass doors marked at two bands (800–1000 and 1400–1600 high). | Mixed |
@@ -150,7 +151,7 @@ Table 8 also has rows for hotels, educational buildings, hospitals, assembly bui
 | B-6.4.2 ★ | Lift car size | At least 1500 × 1500. | Shall |
 | B-6.4.3 ★ | Lift door | Automatic horizontal sliding doors, at least 900 clear; contrasting with the wall; level with the floor, gap no more than 12; non-contact door sensor. | Shall |
 | B-6.4.4 ★ | Call button | 800–1000 high, with clear floor space 900 × 1200 in front. | Shall |
-| B-6.4.5 ★ | Car control panel | **No touch panels.** Panel 900–1 100 high; buttons with Braille and raised characters in strong contrast. | Shall |
+| B-6.4.5 ★ | Car control panel | **No touch panels.** Panel 900–1100 high; buttons with Braille and raised characters in strong contrast. | Shall |
 | B-6.4.6 ★ | Lift handrails | On both sides and the rear, at about 900 high. | Shall |
 | B-6.4.7 ★ | Announcements | Voice announcement plus visual display of floor and door status, about 50 dB. | Shall |
 | B-6.4.8 | Other lift requirements | Matt, contrasting interior walls; slip-resistant, non-reflective car floor; mirror opposite the door recommended. | Mixed |

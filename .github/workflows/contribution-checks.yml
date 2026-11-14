@@ -1,0 +1,42 @@
+name: Contribution checks
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: List changed files
+        id: changed
+        run: |
+          git diff --name-only --diff-filter=ACMR "origin/${{ github.base_ref }}...HEAD" > changed.txt
+          cat changed.txt
+
+      - name: Personal data scan (changed files only)
+        run: |
+          if [ -s changed.txt ]; then
+            xargs -a changed.txt -d '\n' python scripts/pii_scan.py
+          fi
+
+      - name: Path allowlist for web contributions
+        if: startsWith(github.head_ref, 'contrib/')
+        run: |
+          bad=$(grep -v -E '^(mandates/|guides/|solutions/|templates/|cases/community/)' changed.txt || true)
+          if [ -n "$bad" ]; then
+            echo "Web contributions may not change these files:"; echo "$bad"; exit 1
+          fi
+          if git diff --name-only --diff-filter=MD "origin/${{ github.base_ref }}...HEAD" | grep -q '^cases/'; then
+            echo "Web contributions may not modify or delete existing case files."; exit 1
+          fi
