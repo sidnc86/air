@@ -4,11 +4,11 @@
 
 # **CC:** 
 
-**gopal@majestiqueproperties.com,** **<u>vishwajit.diwedi@majestique.co.in, parul.sah@majestique.co.in, sanjay.mehta@majestique.co.in, manish.maheshwari@majestique.co.in, sanjay@majestiqueproperties.com, rahul@majestiqueproperties.com</u>** 
+**redacted supervisor/manager address from Majestique Properties,** **<u>Redacted email address of one of senior management, redacted address of Majestique's sales lead, redacted email of other majestique team members</u>**
 
 **Subject:** Request for Universal Accessibility Compliance: Clubhouse, Lifts, and Walkways 
 
-# **Dear Majestique Marbella Builder Team,** 
+**Dear Majestique Marbella Builder Team,** 
 
 I am writing to you as a resident of Wing D. Having lived here since May, I have been observing the progress of the final wings and the upcoming clubhouse with much hope. 
 
@@ -58,7 +58,7 @@ I would be happy to discuss these technical specifications or the Kone alternati
 
 Best regards, 
 
-# **Siddhant Chothe** 
+**Siddhant Chothe** 
 
 D-503 
 
