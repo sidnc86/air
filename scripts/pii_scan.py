@@ -5,7 +5,7 @@ Usage:
 
 Exit code 1 if any BLOCK finding is present; WARN findings are reported only.
 Findings report the kind of data and its location, never the matched text.
-Lines containing an entry from a .pii-allow file in the working directory are skipped.
+Lines containing an entry from the .pii-allow file (see _load_allow_file) are skipped.
 """
 import re
 import sys
@@ -86,8 +86,13 @@ def _load_allow_file():
 
     Use it for published contact details the project chose to show, such as the
     project's own email address. Keep it short and review every entry.
+
+    The file is read from the path in the PII_ALLOW_FILE environment variable if set,
+    otherwise from .pii-allow in the working directory. The public air repository
+    holds the only copy; air-staging fetches it before scanning.
     """
-    path = Path(".pii-allow")
+    import os
+    path = Path(os.environ.get("PII_ALLOW_FILE", ".pii-allow"))
     if not path.exists():
         return []
     return [ln.strip() for ln in path.read_text(encoding="utf-8").splitlines()
