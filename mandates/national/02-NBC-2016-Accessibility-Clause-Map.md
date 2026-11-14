@@ -1,6 +1,6 @@
 # NBC 2016 Accessibility Clause Map
 
-**Document mapped:** National Building Code of India 2016, Volume 1, Part 3 (Development Control Rules and General Building Requirements), Clause 13 and Annex B
+**Document mapped:** National Building Code of India 2016, Volume 1, Part 3 (Development Control Rules and General Building Requirements), Clause 13 and Annex B and the latest advisory issued in NBCS SP7:2026
 **Publisher and rights holder:** Bureau of Indian Standards (BIS)
 **Official sources (link only):**
 - BIS overview of the National Building Code: https://www.bis.gov.in/standards/national-building-code/?lang=en
@@ -12,7 +12,6 @@
 **What this file is not:** a substitute for the official text. Cite the official text in a complaint, design or legal argument.
 **Prepared:** 2026-11, from a third-party excerpt titled "NBC 2016 Excerpts Relating to the needs of PWD".
 **Verification status:** figures checked 2026-11-13 against the Uttarakhand-hosted copy of SP 7:2016 (NBC 2016, Volume 1, third revision, © BIS). All 105 dimensional figures in this map matched; "shall" and "should" wording was spot-checked. In that PDF, Clause 13 starts on PDF page 154 and Annex B runs from about PDF page 167. The PDF's text layer is unreadable, so the check used OCR of the page images.
-**Replaces:** `02-NBC-2016-Section-13-ANNEX-B.md` (a full-text conversion that was mostly unreadable and raised rights concerns)
 
 ---
 
